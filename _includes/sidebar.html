@@ -1,0 +1,46 @@
+<div class="sidebar">
+  <div class="container sidebar">
+  <img class="card" src="{{ site.baseurl }}img/azulete.jpg"/>
+    <div class="sidebar-about">
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="sidebar-nav">{{ site.description }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Inicio</a>
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </nav>
+
+    <nav>
+      <a class="sidebar-nav-verse" href="es.linkedin.com/in/jmartgod/"><i class="fa fa-linkedin"></i> jmartgod</a>
+    </nav>
+    <nav>
+      <span></span><a class="sidebar-nav-verse" href="godenoughfor.github.io"><i class="fa fa-github"></i> godenoughfor</a></span>
+    </nav>
+    <nav>
+      <span></span><a class="sidebar-nav-verse" href="mailto:jmartgod@gmail.com"><i class="fa fa-envelope"></i> jmartgod@gmail.com</a></span>
+    </nav>
+    <nav>
+      <span class="sidebar-nav-verse">Basado en el tema <a href="http://hyde.getpoole.com">Hyde</a></span>
+    </nav>
+    
+    <span class="sidebar-nav-verse">&copy; {{ site.time | date: '%Y' }}. All rights reserved.</span>
+  </div>
+</div>
