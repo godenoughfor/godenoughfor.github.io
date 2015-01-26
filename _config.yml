@@ -6,9 +6,9 @@ description: Un espacio para la psicología y la tecnología.
 logo: site-logo.png
 search: true
 url: godenoughfor.github.io
-site: enoughmind.disqus.com
-  owner: godenoughfor
-    disqus-shortname: enoughmind
+#site: enoughmind.disqus.com
+#  owner: godenoughfor
+#    disqus-shortname: enoughmind
 
 # Jekyll configuration
 
