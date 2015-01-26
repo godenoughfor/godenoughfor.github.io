@@ -5,10 +5,10 @@ locale: en_ES
 description: Un espacio para la psicología y la tecnología.
 logo: site-logo.png
 search: true
-url: http://localhost:4000
-site: enougmind.disqus.com
+url: godenoughfor.github.io
+site: enoughmind.disqus.com
   owner: godenoughfor
-    disqus-shortname: enougmind
+    disqus-shortname: enoughmind
 
 # Jekyll configuration
 
