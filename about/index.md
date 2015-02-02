@@ -9,4 +9,16 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-## En construcción ;)
+30. Psicólogo en ciernes. Actualmente vivo en [Elche][elche]. Mis intereses profesionales giran en torno a la selección de personal, liderazgo y gestión del talento, en cuanto a la vertiente de los RRHH. Por otro lado, la metodología y la evaluación psicológica son materias en las que me manejo con gran soltura y el centro de mi carrera académica.
+
+En el terreno personal, la tecnología, el senderismo o correr son algunas de las cosas que hago cuando tengo tiempo libre. Este [blog][blog] es un barco de papel sobre el inmenso oceano de conocimiento y ruido que es internet. Bienvenido.
+
+No dudes en [contactar][mail] conmigo, no me como a nadie. También puedes echar un vistazo a mi [CV][cv].
+
+Bienvenido y gracias por la visita.
+
+
+[elche]: https://es.wikipedia.org/wiki/Elche
+[blog]: http://godenougfor.github.io
+[mail]: mailto:jmartgod@gmail.com
+[cv]:  https://www.dropbox.com/s/h3dq17en8yju9gv/Jos%C3%A9%20Antonio%20Mart%C3%ADnez%20Godoy%20%28Enero%2C%202015%29.pdf?dl=0
