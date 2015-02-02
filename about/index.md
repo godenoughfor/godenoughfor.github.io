@@ -9,7 +9,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-30. Psicólogo en ciernes. Actualmente vivo en [Elche][elche]. Mis intereses profesionales giran en torno a la selección de personal, liderazgo y gestión del talento, en cuanto a la vertiente de los RRHH. Por otro lado, la metodología y la evaluación psicológica son materias en las que me manejo con gran soltura y el centro de mi carrera académica.
+Psicólogo en ciernes. Actualmente vivo en [Elche][elche]. Mis intereses profesionales giran en torno a la selección de personal, liderazgo y gestión del talento, en cuanto a la vertiente de los RRHH. Por otro lado, la metodología y la evaluación psicológica son materias en las que me manejo con gran soltura y el centro de mi carrera académica.
 
 En el terreno personal, la tecnología, el senderismo o correr son algunas de las cosas que hago cuando tengo tiempo libre. Este [blog][blog] es un barco de papel sobre el inmenso oceano de conocimiento y ruido que es internet. Bienvenido.
 
