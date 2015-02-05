@@ -6,9 +6,6 @@ description: Un espacio para la psicología y la tecnología.
 logo: site-logo.png
 search: true
 url: http://godenoughfor.github.io
-site: enoughmind.disqus.com
-  owner: godenoughfor
-    disqus_shortname: enoughmind
 
 # Jekyll configuration
 
@@ -37,7 +34,7 @@ owner:
   name: José Antonio Martínez Godoy
   avatar: bio-photo.jpg
   email: jmartgod@enoughmind.com
-  disqus_shortname: enoughmind
+  disqus-shortname: enoughmind
   twitter: godenoughfor
   facebook: #username
   github: godenoughfor
