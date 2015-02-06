@@ -3,7 +3,7 @@ layout: post
 title: "De Twitter a tus neuronas"
 modified:
 categories: blog
-excerpt: "Redes sociales. ¿Gratis? Como se financia Twitter y que investigaciones se han realizado para determinar si enviar un tweet y ver anuncios realmente "conecta" con el usuario."
+excerpt: "Redes sociales. ¿Gratis? Como se financia Twitter y que investigaciones se han realizado para determinar si enviar un tweet y ver anuncios realmente conecta con el usuario."
 tags: [sociología, redes sociales, neurociencia]
 date: 2015-02-06
 comments: true
