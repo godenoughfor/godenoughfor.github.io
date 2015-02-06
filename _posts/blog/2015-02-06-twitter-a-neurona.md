@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "De: @Twitter Para: @Neurona"
+title: “De Twitter a tus neuronas”
 modified:
 categories: blog
 excerpt: "Redes sociales. ¿Gratis? Como se financia Twitter y que investigaciones se han realizado para determinar si enviar un tweet y ver anuncios realmente "conecta" con el usuario."
@@ -8,6 +8,8 @@ tags: [sociología, redes sociales, neurociencia]
 image:
   feature:
 date: 2015-02-06
+comments: true
+share: true
 ---
 
 El mundo de Internet funciona sobre otros términos. Las redes sociales se han convertido poco a poco en un panel sobre el que se plasman escenas de la vida cotidiana y experiencias únicas. Todas en la misma lista. En *facebook* y *Twitter* se les llama *linea de tiempo* o *timeline* en el idioma de Shakespeare.
