@@ -36,12 +36,8 @@ También en Noviembre, *Twitter* [daba a conocer los cambios][http://techcrunch.
 
 En el [enlace][http://techcrunch.com/2014/11/12/twitter-instant-timeline/] anterior, de [*Techcrunch*][http://techcrunch.com], aparece una disimulada etiqueta en la que *Twitter* decía haber **organizado una división de investigación en neurociencias llamada *Neuroresearch* para evaluar como las personas internalizaban los mensajes de sus anuncios**.
 
-{:.center}
 ![Resultados](https://tctechcrunch2011.files.wordpress.com/2014/11/twitter-research-results.png?w=680&h=375)  
 Fuente: Techcrunch.com
-.center {
-  text-align: center;
-}
 
 Aparentemente, los resultados dejaban claro que *Twitter* era la plataforma adecuada para promocionarse en internet. Sin embargo, no habían dejado claro en que había consistido esa investigación. No ha sido hasta ahora que en [*Medium*][http://medium.com] ha aparecido un [artículo][https://medium.com/backchannel/this-is-your-brain-on-twitter-cac0725cea2b] relatando en que había consistido esta investigación.
 
