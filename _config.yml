@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: EnoughMind
-locale: en_ES
+locale: es_ES
 description: Un espacio para la psicología y la tecnología.
 logo: site-logo.png
 search: true
@@ -48,6 +48,6 @@ owner:
     analytics:
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:
   bio: "Aspirante."

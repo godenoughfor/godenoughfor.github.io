@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Lista de lecturas
 excerpt: "Manteniendo un seguimiento de los libros leidos"
 search_omit: true
