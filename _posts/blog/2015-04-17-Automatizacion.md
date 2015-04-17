@@ -13,5 +13,7 @@ Voy de camino a mi trabajo mientras mi ordenador se queda en casa, trabajando pa
 
 Me surgió hace tiempo la pregunta de si era posible tener un blog cuyo diseño pudiera modificar con facilidad y a la vez pudiera escribir desde cualquier sitio. 
 
-**Wordpress** no era la solución adecuada. Aún pudiendo escribir desde cualquier lugar, los diseños se me hacían toscos y cualquier intento de retoque tenía un coste enorme.Cuando las cosas tienen que ir.
+**Wordpress** no era la solución adecuada. Aún pudiendo escribir desde cualquier lugar, los diseños se me hacían toscos y cualquier intento de retoque tenía un coste enorme. 
+
+GhosCuando las cosas tienen que ir.
 
