@@ -17,7 +17,7 @@ Me surgió hace tiempo la pregunta de si era posible tener un blog cuyo diseño 
 
 **Ghost** tenía una aproximación parecida a la que deseaba. Pero la necesidad de tener Node.js corriendo y las quejas de la gestión de borradores. Me hicieron retractarme de usar esta plataforma.
 
-Fue **Jekyll** el que terminó por convencerme por su sobrado soporte y extensión.
+Fue **Jekyll** el que terminó por convencerme por su sobrado soporte y extensión. 
 
 Cuando las cosas tienen que ir.
 
