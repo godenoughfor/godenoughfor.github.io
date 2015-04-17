@@ -9,5 +9,7 @@ comments: true
 share: true 
 ---
 
-Voy de camino a mi trabajo mientras mi ordenador se queda en casa, trabajando para mí. Estas líneas están escritas desde un vetusto, pero efectivo, iPhone 4S. Cuando las cosas tienen que ir.
+Voy de camino a mi trabajo mientras mi ordenador se queda en casa, trabajando para mí. Estas líneas están escritas desde un vetusto, pero efectivo, iPhone 4S. 
+
+Me surgió hace tiempo la pregunta de si era posible tener un blog cuyo diseñoCuando las cosas tienen que ir.
 
