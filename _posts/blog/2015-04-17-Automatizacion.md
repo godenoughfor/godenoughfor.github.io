@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R"
+title: "Automatización, día 1: Post"
 categories: blog
 date: 2015-04-17 14:56
 excerpt: Siento decirte que tu sistema operativo puede hacerlo mejor que tú.
