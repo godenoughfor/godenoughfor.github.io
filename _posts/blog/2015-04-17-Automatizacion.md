@@ -15,7 +15,7 @@ Me surgió hace tiempo la pregunta de si era posible tener un blog cuyo diseño 
 
 **Wordpress** no era la solución adecuada. Aún pudiendo escribir desde cualquier lugar, los diseños se me hacían toscos y cualquier intento de retoque tenía un coste enorme. Markdown estaba descartado en esta plataforma.
 
-**
+**Ghost** tenía una aproximación parecida a la que deseaba. Pero la necesidad de tener Node.js corriendo 
 
 Cuando las cosas tienen que ir.
 
