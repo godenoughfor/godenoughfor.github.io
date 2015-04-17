@@ -1,0 +1,12 @@
+---
+layout: post
+title: "R"
+ategories
+date: 2015-04-17 14:29
+excerpt: 
+tags: 
+comments: true 
+share: true 
+---
+
+Crear sistemas de análisis de bajo coste es posible. El cómo es otro tema.
