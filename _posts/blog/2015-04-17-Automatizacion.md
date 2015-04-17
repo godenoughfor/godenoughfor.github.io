@@ -9,5 +9,5 @@ comments: true
 share: true 
 ---
 
-Cuando las cosas tienen que ir.
+Voy de camino a mi trabajo mientras mi ordenador se queda en casa, trabajando para mí. Estas linCuando las cosas tienen que ir.
 
