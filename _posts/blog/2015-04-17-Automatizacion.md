@@ -17,7 +17,8 @@ Me surgió hace tiempo la pregunta de si era posible tener un blog cuyo diseño 
 
 **Ghost** tenía una aproximación parecida a la que deseaba. Pero la necesidad de tener Node.js corriendo y las quejas de la gestión de borradores. Me hicieron retractarme de usar esta plataforma.
 
-Fue **Jekyll** el que terminó por convencerme por su sobrado soporte y extensión. La cuestión era como integrar y automatizar las publicaciones.
+Fue **Jekyll** el que terminó por convencerme por su sobrado soporte y extensión. Que sea el motor de generación de páginas de **Github** ya es una garantía. La cuestión era como integrar y automatizar las publicaciones, pues para ir actualizando el blog se debe realizar un push a un. Aquí es donde venían a la carga una aplicación clave para los usuarios de Mac, **Hazel**.
 
-Cuando las cosas tienen que ir.
+## Hazel
 
+Tanto si eres un maníaco del orden, como si eres un desastre **Hazel** es tu mejor amigo. Básicamente se instala como un panel de preferencias en el que controlaremos las *reglas* que corre. Las reglas son pequeños scripts que realizan acciones diversas, desde mover archivos, cambiar su nombre o directamente lanzar un workflow de **Automator**.
