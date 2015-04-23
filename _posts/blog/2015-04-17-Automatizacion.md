@@ -22,3 +22,18 @@ Fue **Jekyll** el que terminó por convencerme por su sobrado soporte y extensi�
 ## Hazel
 
 Tanto si eres un maníaco del orden, como si eres un desastre **Hazel** es tu mejor amigo. Básicamente se instala como un panel de preferencias en el que controlaremos las *reglas* que corre. Las reglas son pequeños scripts que realizan acciones diversas, desde mover archivos, cambiar su nombre o directamente lanzar un workflow de **Automator**.
+
+Para realizar este proceso necesitarás:
+
+- Un blog en Jekyll (hospedado en Github Pages)
+- Command Line Tools
+- Hazel
+- Obviamente, Mac OS X
+
+(Imagen1)
+
+Haciendo uso de esta aplicación solo tendríamos que añadir la carpeta "_post " a Hazel y añadir la correspondiente regla.
+
+(Imagen 2)
+
+Una vez realizado esto 
