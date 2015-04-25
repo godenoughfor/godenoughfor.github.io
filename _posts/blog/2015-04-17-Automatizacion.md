@@ -25,11 +25,11 @@ Tanto si eres un maníaco del orden, como si eres un desastre Hazel es tu mejor 
 
 Para realizar este proceso necesitarás:
 
-- Obviamente, Mac OS X
-- Un blog en Jekyll (hospedado en Github Pages)
-- Command Line Tools
-- Hazel
-- Los [Workflow] de Automator obtenidos del post.
+- Obviamente, **Mac OS X**
+- Un blog en **Jekyll** (hospedado en Github Pages)
+- **Command Line Tools**
+- **Hazel**
+- Los [Workflow] de **Automator** obtenidos del [post].
 
 Tras instalar Hazel e indagar en su sencillo panel de preferencias, solo tendríamos que añadir la carpeta "_post " a Hazel. Esto se realizaría con el "+" que se encuentra en la esquina inferior izquierda de la ventana.
 
