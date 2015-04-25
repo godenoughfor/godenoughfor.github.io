@@ -35,11 +35,15 @@ Tras instalar Hazel e indagar en su sencillo panel de preferencias, solo tendrí
 
 ![][hazel]
 
-y añadir la correspondiente regla.
+Después no hay más que añadir la siguiente regla. Para ello, solo hay que, de nuevo, pulsar el otro símbolo "+" que hay en la ventana y añadir la correspondiente regla.
 
 ![][rules]
 
-Una vez realizado esto 
+Lo que se acaba de hacer indica a Hazel que cada vez que cambie la fecha de última modificación del contenido de la carpeta, corra el Workflow de Automator, que actualizará el blog. El único cambio que hay que hacer, es cambiar la ruta de acceso a la carpeta "_post" en el flujo de trabajo para que funcione. Una vez hecho esto, el programa enviará un mensaje a tu iPhone (si lo tienes), que contendrá "Pushed: Hora del envío".
+
+De esta manera tan sencilla cada vez que editemos un post o coloquemos uno nuevo en la carpeta de "_post" de nuestro repositorio local, Hazel se encargará de realizar un "push" al repositorio en Github.
+
+Espero en breves tener preparado una breve quía de como crear un blog en Github con coste 0. Muchas gracias por leer, cualquier duda, no dudes en comentar o enviarme un mail.
 
 [post]: http://spinhalf.net/2015/01/04/getting-started-with-a-jekyll-blog/
 [hazel]: ../../images/Hazel.png "Ventana de opciones de Hazel" 
