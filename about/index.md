@@ -20,5 +20,5 @@ Bienvenido y gracias por la visita.
 
 [elche]: https://es.wikipedia.org/wiki/Elche
 [blog]: http://enoughmind.com
-[mail]: mailto:jmartgod@gmail.com
+[mail]: mailto:hola@enoughmind.com
 [cv]: https://www.dropbox.com/s/f1wpt4pbdd4wtf5/CV%20-%20Jos%C3%A9%20Antonio%20Mart%C3%ADnez%20Godoy%20-%20Marzo%202015%28actualizado%29.pdf?dl=0

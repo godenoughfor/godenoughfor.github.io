@@ -11,13 +11,13 @@ share: true
 
 Voy de camino a mi trabajo mientras mi ordenador se queda en casa, trabajando para mí. Estas líneas están escritas desde un vetusto, pero efectivo, iPhone 4S. 
 
-Me surgió hace tiempo la pregunta de si era posible tener un blog cuyo diseño pudiera modificar con facilidad y a la vez pudiera escribir desde cualquier sitio. **Markdown** me había conquistado y cada vez lo usaba de manera incrementar en el ámbito académico y personal.
+Me surgió hace tiempo la pregunta de si era posible tener un blog cuyo diseño pudiera modificar con facilidad y a la vez pudiera subir posts y editar desde cualquier sitio. **Markdown** me había conquistado y cada vez lo usaba más en el ámbito académico y personal, por lo que quería poder utilizarlo para crear contenido sin importar donde estuviera.
 
 **Wordpress** no era la solución adecuada. Aún pudiendo escribir desde cualquier lugar, los diseños se me hacían toscos y cualquier intento de retoque tenía un coste enorme. Markdown estaba descartado en esta plataforma.
 
-**Ghost** tenía una aproximación parecida a la que deseaba. Pero la necesidad de tener Node.js corriendo y las quejas de la gestión de borradores. Me hicieron retractarme de usar esta plataforma.
+**Ghost** tenía una aproximación parecida a la que deseaba. Pero la necesidad de tener Node.js corriendo, con el consiguiente coste de hosting, unido a las quejas de la gestión de borradores, hicieron que me retractara de usar esta plataforma.
 
-Fue **Jekyll** el que terminó por convencerme por su sobrado soporte y extensión. Que sea el motor de generación de páginas de **Github** ya es una garantía. La cuestión era como integrar y automatizar las publicaciones, pues para ir actualizando el blog se debe realizar un push al servidor. Finalmente, buscando por la red di con este [post]. Aquí es donde venía a la carga una aplicación clave para los usuarios de Mac, **Hazel**.
+Fue **Jekyll** el que terminó por convencerme por su sobrado soporte y extensión. Que sea el motor de generación de páginas de **Github** ya es una garantía. La cuestión era como integrar y automatizar las publicaciones, pues para ir actualizando el blog se debe realizar el push al repositorio donde estaría almacenado el blog. Finalmente, buscando por la red di con este [post] de [Amit Jain]. Aquí es donde venía a la carga una aplicación clave para los usuarios de Mac, **Hazel**.
 
 ## Hazel
 
@@ -45,3 +45,4 @@ Una vez realizado esto
 [hazel]: ../../images/Hazel.png "Ventana de opciones de Hazel" 
 [rules]: ../../images/Hazelrule.png "Ventana de reglas"
 [Workflow]: http://culturedpixel.com/uploads/Github%20Push%20Workflows.zip
+[Amit Jain]: http://amitjain.me
