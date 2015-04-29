@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Herramientas para el Trabajo Fin de Grado"
-categories: académico
+categories: academico
 tags: [universidad, TFG]
 date: 2015-04-29
 excerpt: Una guía que puede facilitaros la vida.
