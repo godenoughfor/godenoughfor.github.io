@@ -10,11 +10,15 @@ share: true
 
 ---
 
-Aunque estas palabras estén siendo escritas el 22 de Abril, este post llevaba rondando mi cabeza desde hace mucho. Fue el año pasado cuando después de la decepción sufrida por la no actualización del Galaxy Nexus a Kit Kat cuando me decidí saltar a otra plataforma.
+## ¿Por qué analizar piezas de hardware obsoletas?
+
+Es la primera pregunta que puede hacerse el lector de este escrito. Es una pregunta comprensible y la respuesta es sencilla y poco científica, "quería compartir mi experiencia". No es difícil encontrar por la red innumerable cara a cara que datan de 2011, que es cuando deberían de haberse analizado. Si bien, tuve el Galaxy Nexus entre febrero de 2011 y febrero de 2014 y después fue cuando me decidí por el iPhone 4S.
+
+Aunque estas palabras estén siendo escritas el 22 de Abril, este post llevaba rondando mi cabeza desde hace mucho. Se podría pensar que el análisis que voy a realizar no trata de ser uno de esos análisis que hablan de marcas de Geekbench, análisis de ganancia de color o horas de pantalla. Son percepciones propias, y tal vez lo más interesante o como lo he vivido yo... **como las diferentes plataformas han cambiado mi manera de trabajar**.
 
 ## En el papel
 
-Especificaciones. Qué es lo que vamos a encontrar en las cajas de nuestros móviles. Desde hace mucho tiempo, y siempre que se comparan terminales, se ha tirado de números. Este tipo de datos, suelen atraer más el ojo de entendidos, que pueden hacerse una idea de *potencia* bruta. A todas luces, el **Galaxy Nexus** parece superior al **iPhone 4S**, al menos en su interior; 1,2 Ghz VS 1 Ghz, el doble de RAM, mayor pantalla. Mayor batería a favor del Nexus
+Especificaciones. Qué es lo que vamos a encontrar en las cajas de nuestros móviles. Desde hace mucho tiempo, y siempre que se comparan terminales, se ha tirado de números. Este tipo de datos, suelen atraer más el ojo de entendidos, que pueden hacerse una idea de *potencia* bruta. A todas luces, el **Galaxy Nexus** parece superior al **iPhone 4S**, al menos en su interior; 1,2 Ghz VS 1 Ghz, el doble de RAM, mayor pantalla, mayor batería a favor del Nexus. Sin embargo, cuando se empaqueta todo y se recibe en mano es donde comienza a surgir la diferencia.
 
 ### Galaxy Nexus
 
