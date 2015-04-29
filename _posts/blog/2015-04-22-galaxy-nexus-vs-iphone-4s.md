@@ -14,7 +14,7 @@ Aunque estas palabras estén siendo escritas el 22 de Abril, este post llevaba r
 
 ## En el papel
 
-Especificaciones. 
+Especificaciones. Qué es lo que vamos a encontrar en las cajas de nuestros móviles. Desde hace mucho tiempo, y siempre que se comparan terminales, se ha tirado de números. Este tipo de datos, suelen atraer más el ojo de entendidos, que pueden hacerse una idea de *potencia* bruta. A todas luces, el **Galaxy Nexus** parece superior al **iPhone 4S**, al menos en su interior; 1,2 Ghz VS 1 Ghz, el doble de RAM, mayor pantalla. Mayor batería a favor del Nexus
 
 ### Galaxy Nexus
 
@@ -37,25 +37,25 @@ Especificaciones.
 
 ### iPhone 4S
 
-|---------------------- |-------------------------------------------
-Red                     GSM / 3G / HSPA
-Lanzamiento             Octubre de 2011
-Dimensiones             115.2 x 58.6 x 9.3 mm
-Peso                    140 g 
-Pantalla                IPS LCD - 3.5"(~54% de superficie de pantalla)
-Resolución              640 x 960 (~330 ppi)
-OS Salida/Última Ac.    iOS 5/8.3
-Chipset                 Apple A5 / Dual-core 1 GHz Cortex-A9 / GPU PowerVR SGX543MP2
-Memoria Interna         16 GB
-Memoria RAM             512 MB
-Cámara                  8 MP, LED flash, Video 1080p@30fps
-Frontal                 VGA, 480p@30fps
-WLAN                    Wi-Fi 802.11 b/g/n, hotspot
-Otras conexiones        Bluetooth 4.0, A-GPS, GLONASS
-Batería                 Li-Ion 1432 mAh battery
-----------------------  -----------------------------------------
+|----------------------|-------------------------------------------------
+|Red                   | GSM / 3G / HSPA
+|Lanzamiento           |  Octubre de 2011
+|Dimensiones           |  115.2 x 58.6 x 9.3 mm
+|Peso                  |  140 g 
+|Pantalla              |  IPS LCD - 3.5" ~54% ratio de pantalla
+|Resolución            |  640 x 960 (~330 ppi)
+|OS Salida/Última Ac.  |  iOS 5/8.3
+|Chipset               |  Apple A5 / Dual-core 1 GHz Cortex-A9 / GPU PowerVR SGX543MP2
+|Memoria Interna       | 16 GB
+|Memoria RAM           |  512 MB
+|Cámara                |  8 MP, LED flash, Video 1080p@30fps
+|Frontal               |  VGA, 480p@30fps
+|WLAN                  |  Wi-Fi 802.11 b/g/n, hotspot
+|Otras conexiones      |  Bluetooth 4.0, A-GPS, GLONASS
+|Batería               |  Li-Ion 1432 mAh battery
 
-## Como se siente
+
+## Cómo se siente
 
 ## Utilidad
 
