@@ -18,7 +18,7 @@ Especificaciones. Qué es lo que vamos a encontrar en las cajas de nuestros móv
 
 ### Galaxy Nexus
 
-|----------------------|-----------------------------------------------------------------
+|-----------------------|--------------------------------------------------------------
 |Red                    | GSM / 3G / HSPA
 |Lanzamiento            | Noviembre de 2011
 |Dimensiones            | 135.5 x 67.9 x 8.9 mm
