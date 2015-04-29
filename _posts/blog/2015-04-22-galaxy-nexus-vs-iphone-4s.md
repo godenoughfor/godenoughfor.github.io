@@ -10,4 +10,54 @@ share: true
 
 ---
 
-Aunque estas palabras estén siendo escritas el 22 de Abril, este post llevaba rondando mi cabeza desde hace mucho.
+Aunque estas palabras estén siendo escritas el 22 de Abril, este post llevaba rondando mi cabeza desde hace mucho. Fue el año pasado cuando después de la decepción sufrida por la no actualización del Galaxy Nexus a Kit Kat cuando me decidí saltar a otra plataforma.
+
+## En el papel
+
+Especificaciones. 
+
+### Galaxy Nexus
+
+----------------------  -------------------------------------------
+Red                     GSM / 3G / HSPA
+Lanzamiento             Noviembre de 2011
+Dimensiones             135.5 x 67.9 x 8.9 mm
+Peso                    135 g 
+Pantalla                Super AMOLED - 4.65"(~64.8% de superficie de pantalla)
+Resolución              720 x 1280 (~316 ppi)
+OS Salida/Última Ac.    Android OS 4.0/4.3 (Jelly Bean)
+Chipset                 TI OMAP 4460 / Dual-core 1.2 GHz Cortex-A9 / GPU PowerVR SGX540
+Memoria Interna         16 GB
+Memoria RAM             1 GB
+Cámara                  5 MP, LED flash, Video 1080p@24fps
+Frontal                 1.3 MP, 720p@30fps
+WLAN                    Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot
+Otras conexiones        Bluetooth 3.0, A-GPS, NFC
+Batería                 Li-Ion 1750 mAh battery
+----------------------  -------------------------------------------
+
+### iPhone 4S
+
+----------------------  -------------------------------------------
+Red                     GSM / 3G / HSPA
+Lanzamiento             Octubre de 2011
+Dimensiones             115.2 x 58.6 x 9.3 mm
+Peso                    140 g 
+Pantalla                IPS LCD - 3.5"(~54% de superficie de pantalla)
+Resolución              640 x 960 (~330 ppi)
+OS Salida/Última Ac.    iOS 5/8.3
+Chipset                 Apple A5 / Dual-core 1 GHz Cortex-A9 / GPU PowerVR SGX543MP2
+Memoria Interna         16 GB
+Memoria RAM             512 MB
+Cámara                  8 MP, LED flash, Video 1080p@30fps
+Frontal                 VGA, 480p@30fps
+WLAN                    Wi-Fi 802.11 b/g/n, hotspot
+Otras conexiones        Bluetooth 4.0, A-GPS, GLONASS
+Batería                 Li-Ion 1432 mAh battery
+----------------------  -----------------------------------------
+
+## Como se siente
+
+## Utilidad
+
+## ¿Android vs iOS?
