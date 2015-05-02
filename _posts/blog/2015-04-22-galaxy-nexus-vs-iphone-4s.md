@@ -12,9 +12,9 @@ share: true
 
 ## ¿Por qué analizar piezas de hardware obsoletas?
 
-Es la primera pregunta que puede hacerse el lector de este escrito. Es una pregunta comprensible y la respuesta es sencilla y poco científica, "quería compartir mi experiencia". No es difícil encontrar por la red innumerable cara a cara que datan de 2011, que es cuando deberían de haberse analizado. Si bien, tuve el Galaxy Nexus entre febrero de 2011 y febrero de 2014 y después fue cuando me decidí por el iPhone 4S.
+Es la primera pregunta que puede hacerse el lector de este escrito. Es una pregunta comprensible y la respuesta es sencilla y poco científica, "quería compartir mi experiencia". No es difícil encontrar por la red innumerables cara a cara que datan de 2011, que es cuando deberían de haberse analizado estos terminales. Si bien, tuve el Galaxy Nexus entre febrero de 2011 y febrero de 2014 y después fue cuando me decidí por el iPhone 4S.
 
-Aunque estas palabras estén siendo escritas el 22 de Abril, este post llevaba rondando mi cabeza desde hace mucho. Se podría pensar que el análisis que voy a realizar no trata de ser uno de esos análisis que hablan de marcas de Geekbench, análisis de ganancia de color o horas de pantalla. Son percepciones propias, y tal vez lo más interesante o como lo he vivido yo... **como las diferentes plataformas han cambiado mi manera de trabajar**.
+Aunque estas palabras estén siendo escritas el 22 de Abril, este post llevaba rondando mi cabeza desde hace mucho. Se podría pensar que el análisis que voy a realizar no trata de ser uno de esos análisis que hablan de marcas de Geekbench, análisis calidad y ángulos, u horas de pantalla. Son percepciones propias, y tal vez lo más interesante, como lo he vivido yo... **como las diferentes plataformas han cambiado mi manera de trabajar**.
 
 ## En el papel
 
@@ -59,7 +59,9 @@ Especificaciones. Qué es lo que vamos a encontrar en las cajas de nuestros móv
 |Batería               |  Li-Ion 1432 mAh battery
 
 
-## Cómo se siente
+## Cómo se sienten
+
+Efectivamente, los números en global se inclinan hacia el Galaxy Nexus, un terminal que por aquel entonces era "enorme", 
 
 ## Utilidad
 
