@@ -61,7 +61,9 @@ Especificaciones. Qué es lo que vamos a encontrar en las cajas de nuestros móv
 
 ## Cómo se sienten
 
-Efectivamente, los números en global se inclinan hacia el Galaxy Nexus, un terminal que por aquel entonces era "enorme", 
+Efectivamente, los números en global se inclinan hacia el Galaxy Nexus, un terminal que por aquel entonces era "enorme" y hoy en día tendría una pantalla estándar. El iPhone 4S en los tiempos que corren se puede considerar un teléfono con pantalla pequeña pero también de un tamaño contenido. De esta manera, pasar del Nexus al iPhone supuso una mejora en la portabilidad, me sentía más cómodo con iPhone en el bolsillo del pantalón que con el Galaxy Nexus.
+
+Cuando entramos a hablar que tal se comportaban a lo largo del día tenía que decir que el consumo de batería del Nexus era muy superior. Aún teniendo una pantalla AMOLED, era difícil mantener muchas horas de pantalla y tenía que andar jugando con los valores de brillo y activar y desactivar radios para tratar de alargar su duración más allá de medio día. El problema era que esto había sido así desde el principio. Fue con el cambio de ROM oficial de Jelly Bean a Cyanogenmod lo que propició una segunda vida a un terminal que ya adolecía de cierres forzados y continuos fallos, todo esto con ROM oficial. Cyanogenmod propició una vida renovada al terminal, los programas se abrían antes, respondían mejor, unos retoques al kernel propiciaron una mejor gestión de batería y un leve Overclock, le dío el último empujón para lidiar con algún que otro juego más demandante, **había convertido mi Android en un PC**. Todos los cambios alargar un poco la batería, la ganancia estaba alrededor de unos 30 minutos, un 10%.
 
 ## Utilidad
 
