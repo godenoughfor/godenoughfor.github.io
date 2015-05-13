@@ -4,9 +4,9 @@ title: José A. Martínez Godoy
 excerpt: "Psicólogo apasionado de la tecnología."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: header-bg.jpg
+  credit: y7kim
+  creditlink: https://github.com/y7kim/agency-jekyll-theme
 ---
 
 Psicólogo en ciernes. Actualmente vivo en [Elche][elche]. Mis intereses profesionales giran en torno a la selección de personal, liderazgo y gestión del talento, en cuanto a la vertiente de los RRHH. Por otro lado, la metodología y la evaluación psicológica son materias en las que me manejo con gran soltura y el centro de mi carrera académica.
