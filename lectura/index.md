@@ -17,7 +17,7 @@ Hace poco estuvo rondando mi cabeza comenzar de nuevo un registro de los libros 
 ### 2015
 
 - "Técnicas de taxonomía numérica" - *Luis Hernández Encinas*
-- "Como se hace un trabajo académico" - *Clanchy, Jhon*
+- "Como se hace un trabajo académico" - *Jhon Clanchy*
 - "Manual de estilo APA *Sexta Edición*" - *American Psychological Association*
 - "Técnicas de Análisis Multivariado de Datos" - *Cesar Pérez López*
 - "Análisis Discriminante" - *J. Gil Flores, E. García Jiménez y G. Rodríguez Gómez*
