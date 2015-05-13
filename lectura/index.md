@@ -10,15 +10,17 @@ Hace poco estuvo rondando mi cabeza comenzar de nuevo un registro de los libros 
 ### En la mesita/Kindle
 
 - "Excel 2013 Bible" - *Jhon Walkenbach*
-- "R for Everyone: Advanced Analytics and Graphics" - *Lander, Jared P.*
-- "Análisis Discriminante" - *Gil Flores, J., García Jiménez, E. y Rodríguez Gómez, G.*
+- "R for Everyone: Advanced Analytics and Graphics" - *Jared P. Lander*
+- "R Programming for Data Science" - *Roger D. Peng*
+- "A Beginner's Guide to the MCMI-III" - *Dan Jankowski*
 
 ### 2015
 
 - "Técnicas de taxonomía numérica" - *Luis Hernández Encinas*
 - "Como se hace un trabajo académico" - *Clanchy, Jhon*
 - "Manual de estilo APA *Sexta Edición*" - *American Psychological Association*
-- "Técnicas de Análisis Multivariado de Datos" - *Pérez López, Cesar*
+- "Técnicas de Análisis Multivariado de Datos" - *Cesar Pérez López*
+- "Análisis Discriminante" - *J. Gil Flores, E. García Jiménez y G. Rodríguez Gómez*
 
 ### 2014
 
