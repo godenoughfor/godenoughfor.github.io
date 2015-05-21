@@ -73,10 +73,34 @@ La duración de batería era superior a la del Nexus y esto era aún más sobres
 
 Lejos quedan los días en que *@Ariakas*, con su iPhone 3GS, me hablaba de su memoria llena de programas de radio enlatados. Salté de la lectura de artículos a escuchar programas de radio en todas partes, a todas horas. Y esto, no se me había pasado por la cabeza en Android, sabiendo ahora que existen las mismas opciones en el SO de Google.
 
+Ahora la encargada de mantenerme conectado con la *podcastfera* es [Pocket Casts][casts] una aplicación que añade la posibilidad de crear listas personalizadas de reproducción y que además recientemente ha saltado a Windows Phone y a creado una versión web de su reproductor que puedes probar por 14 días y si te gusta lo que ves, pagar 9$.
+
 ## Utilidad
 
-Hablando de tecnología de 2011, ninguno de los dos teléfonos me han hecho sentir así. Tal vez, para mi uso, ambos terminales me dan todo lo que necesito: leer artículos, escuchar podcast, hacer uso de twitter, ver streamings de Twitch y escribir en *markdown*.
+Hablando de tecnología de 2011, ninguno de los dos teléfonos me han hecho sentir tan desplazado en el tiempo. Tal vez, para mi uso, ambos terminales me dan todo lo que necesito: leer artículos, escuchar podcast, hacer uso de twitter, ver streamings de Twitch y escribir en *markdown*.
 
+Desde que cogí el iPhone 4S, no tuve problemas para estar a la última en aplicaciones, aunque supongo que esto cambiará a partir de Octubre de este año. El problema de batería que estoy experimentando no es mas que el producto del creciente uso que se le está exigiendo.
 
+Si bien ambos serían suficiente para hacer frente a las tareas del día a día me tendría que decantar de nuevo hacia el lado de los de Cupertino.
 
 ## ¿Android vs iOS?
+
+Como apunte difinitivo a esta entrada, me gustaría dejar claro que este no es una alegoría hacía que sistema operativo es mejor que otro o si deberíais tirar vuestros móviles Android y salir corriendo a obtener un iPhone 4S. Esta entrada responde a la pregunta..
+
+**¿Debería gastarme 600 euros en un móvil nuevo?**
+
+La respuesta no es fácil. Para mí es difícil justificar ese gasto y debo de decir que no creo que los móviles de última gama hagan más cosas que el que ahora mismo utilizo.
+
+**¿Debería entonces comprarme uno de 300 euros?**
+
+También es difícil de decir. Seguro que obtendrás una experiencia mejor en cuanto a fluidez, siempre y cuando hablemos de terminales como el ya casi extinto *Nexus 5* que se rebela como una de las mejores opciones de gama media-alta o personalmente, si vas a por algo más ajustado claramente *Xiaomi o Motorola G* son teléfonos a tener en cuenta en cuanto se baja hasta los 200 euros.
+
+Si tienes alguno de los teléfonos de los que se habla aquí... yo esperaría. Ambos son grandes teléfonos, bien acabados y muestra de una época en el que ya se vislumbraba lo que debía ser un teléfono tope de gama.
+
+Por otro lado, baste decir que, es una lástima no haber visto mayor competencia en estos años. Tal vez, hayan cambiado mucho las cámaras, tal vez ahora se hagan mejores selfies, pero realmente, por dentro, **hay mucha potencia para unos sistemas operativos que poco han cambiado desde hace 4 años, y ahí es donde está el dilema.**
+
+
+
+
+
+[casts]: http://www.shiftyjelly.com/android/pocketcasts
