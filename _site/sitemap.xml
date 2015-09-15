@@ -1,26 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://godenoughfor.github.io/academico/herramientas-tfg/</loc>
-    <lastmod>2015-04-29T00:00:00+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://godenoughfor.github.io/blog/Why-blog/</loc>
-    <lastmod>2015-04-28T22:09:00+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://godenoughfor.github.io/blog/galaxy-nexus-vs-iphone-4s/</loc>
-    <lastmod>2015-04-22T00:00:00+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://godenoughfor.github.io/blog/Automatizacion/</loc>
-    <lastmod>2015-04-17T14:56:00+02:00</lastmod>
-  </url>
-  <url>
-    <loc>http://godenoughfor.github.io/blog/Blog-en-Jekyll/</loc>
-    <lastmod>2015-04-12T13:30:00+02:00</lastmod>
-  </url>
-  <url>
     <loc>http://godenoughfor.github.io/blog/twitter-a-neurona/</loc>
     <lastmod>2015-02-06T00:00:00+01:00</lastmod>
   </url>
