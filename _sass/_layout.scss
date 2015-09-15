@@ -151,12 +151,10 @@ body {
 		@include media($medium) {
 			width: 150px;
 			height: 150px;
-			@include (150px);
 		}
 		@include media($large) {
 			width: 200px;
 			height: 200px;
-			@include (200px);
 		}
 	}
 }
