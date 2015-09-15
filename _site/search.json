@@ -2,6 +2,46 @@
 
   
     {
+      "title"			: "Herramientas para el Trabajo Fin de Grado",
+      "link"			: "http://godenoughfor.github.io/academico/herramientas-tfg/",
+      "excerpt"		: "Una guía que puede facilitaros la vida."
+    }
+  
+
+  
+    ,{
+      "title"			: "Mi manera de entender el blogging",
+      "link"			: "http://godenoughfor.github.io/blog/Why-blog/",
+      "excerpt"		: "El blog es un heredero del diario personal, del medio digital escrito. ¿Realmente tiene sentido mantenerlo así?"
+    }
+  
+
+  
+    ,{
+      "title"			: "Galaxy Nexus VS iPhone 4S",
+      "link"			: "http://godenoughfor.github.io/blog/galaxy-nexus-vs-iphone-4s/",
+      "excerpt"		: "¿Qué le podemos pedir a un móvil TOP de 2011?"
+    }
+  
+
+  
+    ,{
+      "title"			: "Automatización, día 1: Blog en movilidad.",
+      "link"			: "http://godenoughfor.github.io/blog/Automatizacion/",
+      "excerpt"		: "Siento decirte que tu sistema operativo puede hacerlo mejor que tú."
+    }
+  
+
+  
+    ,{
+      "title"			: "Blogeando en Jekyll",
+      "link"			: "http://godenoughfor.github.io/blog/Blog-en-Jekyll/",
+      "excerpt"		: "Mi experiencia tras el teclado para poner en marcha lo que estás leyendo."
+    }
+  
+
+  
+    ,{
       "title"			: "De Twitter a tus neuronas",
       "link"			: "http://godenoughfor.github.io/blog/twitter-a-neurona/",
       "excerpt"		: "Redes sociales. ¿Gratis? Como se financia Twitter y que investigaciones se han realizado para determinar si enviar un tweet y ver anuncios realmente conecta con el usuario."
