@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "De Twitter a tus neuronas"
 modified:
 categories: blog

@@ -1,53 +1,36 @@
 # Site wide configuration
 
 title: EnoughMind
-locale: es_ES
-description: Pasión por las personas y su relación con la tecnología.
-logo: site-logo.png
-search: true
-url: http://godenoughfor.github.io
+description: "Tecnología, psicología y datos."
+logo: site-logo.jpg# 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale: es
+url: http://localhost:4000
 
 # Jekyll configuration
 
-permalink:   /:categories/:title/
-markdown:    kramdown
-highlighter: pygments
 sass:
-  sass_dir: _sass
-  style: compressed
+    sass_dir: _sass
+    style: expanded
+permalink: /:categories/:title/
+kramdown:
+  toc_levels: 1..2
+highlighter: pygments
 gems:
   - jekyll-sitemap
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  use_coderay: false
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 
 # Site owner
 owner:
-  name: José Antonio Martínez Godoy
-  avatar: bio-photo.jpg
+  name: José Godoy
   email: jmartgod@enoughmind.com
-  disqus-shortname: enoughmind
   twitter: godenoughfor
-  facebook: #username
-  github: godenoughfor
-  stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: jmartgod
-  instagram: #username
-  flickr: #username
-  tumblr: #username
   google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  bio: "Aspirante."
+    ad-client: 
+    ad-slot: 
+  bio: Un psicometra en potencia.
+  avatar: bio-photo.jpg# 160x160 px image for author byline
+disqus-shortname: godenoughfor
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  
+
+  <title>EnoughMind</title>
+  <generator uri="https://github.com/jekyll/jekyll">Jekyll v2.4.0</generator>
+    <icon>http://localhost:4000/apple-touch-icon-precomposed.png</icon>
+  <subtitle>Tecnología, psicología y datos.</subtitle>
+  <link href="http://localhost:4000/atom.xml" rel="self"/>
+  <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
+  <updated>2015-09-19T14:36:04+02:00</updated>
+  <id>http://localhost:4000/</id>
+  <author>
+    <name>José Godoy</name>
+    <uri>http://localhost:4000/</uri>
+    <email>jmartgod@enoughmind.com</email>
+  </author>
+
+  
+  <entry>
+    <title>Galaxy Nexus VS iPhone 4S</title>
+    <link href="http://localhost:4000/blog/galaxy-nexus-vs-iphone-4s/"/>
+    <updated>2015-04-22T00:00:00+02:00</updated>
+    <id>http://localhost:4000/blog/galaxy-nexus-vs-iphone-4s</id>
+    <author>
+      <name>José Godoy</name>
+      <uri>http://localhost:4000/</uri>
+      <email>jmartgod@enoughmind.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;h2 id=&quot;por-qu-analizar-piezas-de-hardware-obsoletas&quot;&gt;¿Por qué analizar piezas de hardware obsoletas?&lt;/h2&gt;
+
+&lt;p&gt;Es la primera pregunta que puede hacerse el lector de este escrito. Es una pregunta comprensible y la respuesta es sencilla y poco científica, “quería compartir mi experiencia”. No es difícil encontrar por la red innumerables cara a cara que datan de 2011, que es cuando deberían de haberse analizado estos terminales. Si bien, tuve el Galaxy Nexus entre febrero de 2011 y febrero de 2014 y después fue cuando me decidí por el iPhone 4S.&lt;/p&gt;
+
+&lt;p&gt;Aunque estas palabras estén siendo escritas el 22 de Abril, este post llevaba rondando mi cabeza desde hace mucho. Se podría pensar que el análisis que voy a realizar no trata de ser uno de esos análisis que hablan de marcas de Geekbench, análisis calidad y ángulos, u horas de pantalla. Son percepciones propias, y tal vez lo más interesante, como lo he vivido yo… &lt;strong&gt;como las diferentes plataformas han cambiado mi manera de trabajar&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;en-el-papel&quot;&gt;En el papel&lt;/h2&gt;
+
+&lt;p&gt;Especificaciones. Qué es lo que vamos a encontrar en las cajas de nuestros móviles. Desde hace mucho tiempo, y siempre que se comparan terminales, se ha tirado de números. Este tipo de datos, suelen atraer más el ojo de entendidos, que pueden hacerse una idea de &lt;em&gt;potencia&lt;/em&gt; bruta. A todas luces, el &lt;strong&gt;Galaxy Nexus&lt;/strong&gt; parece superior al &lt;strong&gt;iPhone 4S&lt;/strong&gt;, al menos en su interior; 1,2 Ghz VS 1 Ghz, el doble de RAM, mayor pantalla, mayor batería a favor del Nexus. Sin embargo, cuando se empaqueta todo y se recibe en mano es donde comienza a surgir la diferencia.&lt;/p&gt;
+
+&lt;h3 id=&quot;galaxy-nexus&quot;&gt;Galaxy Nexus&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Red&lt;/td&gt;
+      &lt;td&gt;GSM / 3G / HSPA&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Lanzamiento&lt;/td&gt;
+      &lt;td&gt;Noviembre de 2011&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Dimensiones&lt;/td&gt;
+      &lt;td&gt;135.5 x 67.9 x 8.9 mm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Peso&lt;/td&gt;
+      &lt;td&gt;135 g&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pantalla&lt;/td&gt;
+      &lt;td&gt;Super AMOLED - 4.65” ~64.8% ratio de pantalla&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Resolución&lt;/td&gt;
+      &lt;td&gt;720 x 1280 (~316 ppi)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OS Salida/Última Ac.&lt;/td&gt;
+      &lt;td&gt;Android OS 4.0/4.3 (Jelly Bean)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Chipset&lt;/td&gt;
+      &lt;td&gt;TI OMAP 4460 / Dual-core 1.2 GHz Cortex-A9 / GPU PowerVR SGX540&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Memoria Interna&lt;/td&gt;
+      &lt;td&gt;16 GB&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Memoria RAM&lt;/td&gt;
+      &lt;td&gt;1 GB&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cámara&lt;/td&gt;
+      &lt;td&gt;5 MP, LED flash, Video 1080p@24fps&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Frontal&lt;/td&gt;
+      &lt;td&gt;1.3 MP, 720p@30fps&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;WLAN&lt;/td&gt;
+      &lt;td&gt;Wi-Fi 802.11 a/b/g/n, dual-band, DLNA, hotspot&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Otras conexiones&lt;/td&gt;
+      &lt;td&gt;Bluetooth 3.0, A-GPS, NFC&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Batería&lt;/td&gt;
+      &lt;td&gt;Li-Ion 1750 mAh battery&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;iphone-4s&quot;&gt;iPhone 4S&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Red&lt;/td&gt;
+      &lt;td&gt;GSM / 3G / HSPA&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Lanzamiento&lt;/td&gt;
+      &lt;td&gt;Octubre de 2011&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Dimensiones&lt;/td&gt;
+      &lt;td&gt;115.2 x 58.6 x 9.3 mm&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Peso&lt;/td&gt;
+      &lt;td&gt;140 g&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pantalla&lt;/td&gt;
+      &lt;td&gt;IPS LCD - 3.5” ~54% ratio de pantalla&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Resolución&lt;/td&gt;
+      &lt;td&gt;640 x 960 (~330 ppi)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;OS Salida/Última Ac.&lt;/td&gt;
+      &lt;td&gt;iOS 5/8.3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Chipset&lt;/td&gt;
+      &lt;td&gt;Apple A5 / Dual-core 1 GHz Cortex-A9 / GPU PowerVR SGX543MP2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Memoria Interna&lt;/td&gt;
+      &lt;td&gt;16 GB&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Memoria RAM&lt;/td&gt;
+      &lt;td&gt;512 MB&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Cámara&lt;/td&gt;
+      &lt;td&gt;8 MP, LED flash, Video 1080p@30fps&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Frontal&lt;/td&gt;
+      &lt;td&gt;VGA, 480p@30fps&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;WLAN&lt;/td&gt;
+      &lt;td&gt;Wi-Fi 802.11 b/g/n, hotspot&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Otras conexiones&lt;/td&gt;
+      &lt;td&gt;Bluetooth 4.0, A-GPS, GLONASS&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Batería&lt;/td&gt;
+      &lt;td&gt;Li-Ion 1432 mAh battery&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;cmo-se-sienten&quot;&gt; Cómo se sienten&lt;/h2&gt;
+
+&lt;p&gt;Efectivamente, los números en global se inclinan hacia el Galaxy Nexus, un terminal que por aquel entonces era “enorme” y hoy en día tendría una pantalla estándar. El iPhone 4S en los tiempos que corren se puede considerar un teléfono con pantalla pequeña pero también de un tamaño contenido. De esta manera, pasar del Nexus al iPhone supuso una mejora en la portabilidad, me sentía más cómodo con iPhone en el bolsillo del pantalón que con el Galaxy Nexus.&lt;/p&gt;
+
+&lt;p&gt;Cuando entramos a hablar que tal se comportaban a lo largo del día tenía que decir que el consumo de batería del Nexus era muy superior. Aún teniendo una pantalla AMOLED, era difícil mantener muchas horas de pantalla y tenía que andar jugando con los valores de brillo y activar y desactivar radios para tratar de alargar su duración más allá de medio día. El problema era que esto había sido así desde el principio. Fue con el cambio de ROM oficial de Jelly Bean a Cyanogenmod lo que propició una segunda vida a un terminal que ya adolecía de cierres forzados y continuos fallos, todo esto con ROM oficial.&lt;/p&gt;
+
+&lt;p&gt;Cyanogenmod propició una vida renovada al terminal, los programas se abrían antes, respondían mejor, unos retoques al kernel propiciaron una mejor gestión de batería y un leve Overclock, le dío el último empujón para lidiar con algún que otro juego más demandante, &lt;strong&gt;había convertido mi Android en un PC&lt;/strong&gt;. Todos los cambios logran alargar un poco la batería, la ganancia estaba alrededor de unos 30 minutos, un 10%.&lt;/p&gt;
+
+&lt;p&gt;¿Qué sucede entonces con el iPhone? Comencé a usarlo cuando ya era un dispositivo en su último ciclo de actualización. Sin embargo, iOS 7 se desenvolvía con soltura en este dispositivo. Podéis pensar que no es así, pero bueno, tengo que decir que la fluidez que experimente era superior o como mínimo igual a la del Nexus el día que lo saqué de su caja. Eso ya era un gran punto a su favor. Con la llegada de iOS 8 si se resintió esa fluidez, pero la versión 8.1 resolvió esa falta de fluidez y también aprendí a tener instaladas las aplicaciones que realmente son necesarias.&lt;/p&gt;
+
+&lt;p&gt;La duración de batería era superior a la del Nexus y esto era aún más sobresaliente en la reproducción multimedia. Esto cambió mi manera de consumir contenido. Aunque siendo justos, lo que realmente cambio mi vida fue la aplicación &lt;strong&gt;Podcast&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lejos quedan los días en que &lt;em&gt;@Ariakas&lt;/em&gt;, con su iPhone 3GS, me hablaba de su memoria llena de programas de radio enlatados. Salté de la lectura de artículos a escuchar programas de radio en todas partes, a todas horas. Y esto, no se me había pasado por la cabeza en Android, sabiendo ahora que existen las mismas opciones en el SO de Google.&lt;/p&gt;
+
+&lt;p&gt;Ahora la encargada de mantenerme conectado con la &lt;em&gt;podcastfera&lt;/em&gt; es &lt;a href=&quot;http://www.shiftyjelly.com/android/pocketcasts&quot;&gt;Pocket Casts&lt;/a&gt; una aplicación que añade la posibilidad de crear listas personalizadas de reproducción y que además recientemente ha saltado a Windows Phone y a creado una versión web de su reproductor que puedes probar por 14 días y si te gusta lo que ves, pagar 9$.&lt;/p&gt;
+
+&lt;h2 id=&quot;utilidad&quot;&gt;Utilidad&lt;/h2&gt;
+
+&lt;p&gt;Hablando de tecnología de 2011, ninguno de los dos teléfonos me han hecho sentir tan desplazado en el tiempo. Tal vez, para mi uso, ambos terminales me dan todo lo que necesito: leer artículos, escuchar podcast, hacer uso de twitter, ver streamings de Twitch y escribir en &lt;em&gt;markdown&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Desde que cogí el iPhone 4S, no tuve problemas para estar a la última en aplicaciones, aunque supongo que esto cambiará a partir de Octubre de este año. El problema de batería que estoy experimentando no es mas que el producto del creciente uso que se le está exigiendo.&lt;/p&gt;
+
+&lt;p&gt;Si bien ambos serían suficiente para hacer frente a las tareas del día a día me tendría que decantar de nuevo hacia el lado de los de Cupertino.&lt;/p&gt;
+
+&lt;h2 id=&quot;android-vs-ios&quot;&gt;¿Android vs iOS?&lt;/h2&gt;
+
+&lt;p&gt;Como apunte difinitivo a esta entrada, me gustaría dejar claro que este no es una alegoría hacía que sistema operativo es mejor que otro o si deberíais tirar vuestros móviles Android y salir corriendo a obtener un iPhone 4S. Esta entrada responde a la pregunta..&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Debería gastarme 600 euros en un móvil nuevo?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;La respuesta no es fácil. Para mí es difícil justificar ese gasto y debo de decir que no creo que los móviles de última gama hagan más cosas que el que ahora mismo utilizo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;¿Debería entonces comprarme uno de 300 euros?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;También es difícil de decir. Seguro que obtendrás una experiencia mejor en cuanto a fluidez, siempre y cuando hablemos de terminales como el ya casi extinto &lt;em&gt;Nexus 5&lt;/em&gt; que se rebela como una de las mejores opciones de gama media-alta o personalmente, si vas a por algo más ajustado claramente &lt;em&gt;Xiaomi o Motorola G&lt;/em&gt; son teléfonos a tener en cuenta en cuanto se baja hasta los 200 euros.&lt;/p&gt;
+
+&lt;p&gt;Si tienes alguno de los teléfonos de los que se habla aquí… yo esperaría. Ambos son grandes teléfonos, bien acabados y muestra de una época en el que ya se vislumbraba lo que debía ser un teléfono tope de gama.&lt;/p&gt;
+
+&lt;p&gt;Por otro lado, baste decir que, es una lástima no haber visto mayor competencia en estos años. Tal vez, hayan cambiado mucho las cámaras, tal vez ahora se hagan mejores selfies, pero realmente, por dentro, &lt;strong&gt;hay mucha potencia para unos sistemas operativos que poco han cambiado desde hace 4 años, y ahí es donde está el dilema.&lt;/strong&gt;&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Automatización, día 1: Blog en movilidad.</title>
+    <link href="http://localhost:4000/blog/Automatizacion/"/>
+    <updated>2015-04-17T14:56:00+02:00</updated>
+    <id>http://localhost:4000/blog/Automatizacion</id>
+    <author>
+      <name>José Godoy</name>
+      <uri>http://localhost:4000/</uri>
+      <email>jmartgod@enoughmind.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Voy de camino a mi trabajo mientras mi ordenador se queda en casa, trabajando para mí. Estas líneas están escritas desde un vetusto, pero efectivo, iPhone 4S.&lt;/p&gt;
+
+&lt;p&gt;Me surgió hace tiempo la pregunta de si era posible tener un blog cuyo diseño pudiera modificar con facilidad y a la vez pudiera subir posts y editar desde cualquier sitio. &lt;strong&gt;Markdown&lt;/strong&gt; me había conquistado y cada vez lo usaba más en el ámbito académico y personal, por lo que quería poder utilizarlo para crear contenido sin importar donde estuviera.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wordpress&lt;/strong&gt; no era la solución adecuada. Aún pudiendo escribir desde cualquier lugar, los diseños se me hacían toscos y cualquier intento de retoque tenía un coste enorme. Markdown estaba descartado en esta plataforma.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ghost&lt;/strong&gt; tenía una aproximación parecida a la que deseaba. Pero la necesidad de tener Node.js corriendo, con el consiguiente coste de hosting, unido a las quejas de la gestión de borradores, hicieron que me retractara de usar esta plataforma.&lt;/p&gt;
+
+&lt;p&gt;Fue &lt;strong&gt;Jekyll&lt;/strong&gt; el que terminó por convencerme por su sobrado soporte y extensión. Que sea el motor de generación de páginas de &lt;strong&gt;Github&lt;/strong&gt; ya es una garantía. La cuestión era como integrar y automatizar las publicaciones, pues para ir actualizando el blog se debe realizar el push al repositorio donde estaría almacenado el blog. Finalmente, buscando por la red di con este &lt;a href=&quot;http://spinhalf.net/2015/01/04/getting-started-with-a-jekyll-blog/&quot;&gt;post&lt;/a&gt; de &lt;a href=&quot;http://amitjain.me&quot;&gt;Amit Jain&lt;/a&gt;. Donde relataba como había configurado su blog para permitir editar desde cualquier lugar. Fue de esta manera como conocí una aplicación clave para los usuarios de Mac, &lt;strong&gt;Hazel&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;hazel&quot;&gt;Hazel&lt;/h2&gt;
+
+&lt;p&gt;Tanto si eres un maníaco del orden, como si eres un desastre Hazel es tu mejor amigo. Básicamente se instala como un panel de preferencias en el que controlaremos las &lt;em&gt;reglas&lt;/em&gt; que corre. Las reglas son pequeños scripts que realizan acciones diversas, desde mover archivos, cambiar su nombre o directamente lanzar un workflow de &lt;strong&gt;Automator&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para realizar este proceso necesitarás:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Obviamente, &lt;strong&gt;Mac OS X&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Un blog en &lt;strong&gt;Jekyll&lt;/strong&gt; (hospedado en Github Pages)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Command Line Tools&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hazel&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Los &lt;a href=&quot;http://culturedpixel.com/uploads/Github%20Push%20Workflows.zip&quot;&gt;Workflow&lt;/a&gt; de &lt;strong&gt;Automator&lt;/strong&gt; obtenidos del &lt;a href=&quot;http://spinhalf.net/2015/01/04/getting-started-with-a-jekyll-blog/&quot;&gt;post&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tras instalar Hazel e indagar en su sencillo panel de preferencias, solo tendríamos que añadir la carpeta “_post” a Hazel. Esto se realizaría con el “+” que se encuentra en la esquina inferior izquierda de la ventana.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/Hazel.png&quot; alt=&quot;&quot; title=&quot;Ventana de opciones de Hazel&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Después no hay más que añadir la siguiente regla. Para ello, solo hay que, de nuevo, pulsar el otro símbolo “+” que hay en la ventana y añadir la correspondiente regla.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/Hazelrule.png&quot; alt=&quot;&quot; title=&quot;Ventana de reglas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Lo que se acaba de hacer indica a Hazel que cada vez que cambie la fecha de última modificación del contenido de la carpeta, corra el Workflow de Automator, que actualizará el blog. El único cambio que hay que hacer, es cambiar la ruta de acceso a la carpeta “_post” en el flujo de trabajo para que funcione. Una vez hecho esto, el programa enviará un mensaje a tu iPhone (si lo tienes), que contendrá “Pushed: Hora del envío”.&lt;/p&gt;
+
+&lt;p&gt;De esta manera tan sencilla cada vez que editemos un post o coloquemos uno nuevo en la carpeta de “_post” de nuestro repositorio local, Hazel se encargará de realizar un “push” al repositorio en Github.&lt;/p&gt;
+
+&lt;p&gt;Espero en breves tener preparado una breve quía de como crear un blog en Github con coste 0. Muchas gracias por leer, cualquier duda, no dudes en comentar o enviarme un mail.&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>De Twitter a tus neuronas</title>
+    <link href="http://localhost:4000/blog/twitter-a-neurona/"/>
+    <updated>2015-02-06T00:00:00+01:00</updated>
+    <id>http://localhost:4000/blog/twitter-a-neurona</id>
+    <author>
+      <name>José Godoy</name>
+      <uri>http://localhost:4000/</uri>
+      <email>jmartgod@enoughmind.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;El mundo de Internet funciona sobre otros términos. Las redes sociales se han convertido poco a poco en un panel sobre el que se plasman escenas de la vida cotidiana y experiencias únicas. Todas en la misma lista. En &lt;em&gt;facebook&lt;/em&gt; y &lt;em&gt;Twitter&lt;/em&gt; se les llama &lt;em&gt;linea de tiempo&lt;/em&gt; o &lt;em&gt;timeline&lt;/em&gt; en el idioma de Shakespeare.&lt;/p&gt;
+
+&lt;p&gt;Aunque si se fija la vista, de manera casi inconsciente, van a apareciendo mientras cruzamos nuestro &lt;em&gt;timeline&lt;/em&gt; unos pequeños recuadros que nos invitan a movernos a otras páginas. En &lt;em&gt;Twitter&lt;/em&gt; los reconocerás porque debajo de un tweet, verás un &lt;strong&gt;Tweet promocionado&lt;/strong&gt;. Mientras que en &lt;em&gt;facebook&lt;/em&gt; se distinguen del resto de publicaciones claramente. Sí, son los anuncios.&lt;/p&gt;
+
+&lt;p&gt;Las redes sociales son &lt;em&gt;“gratis”&lt;/em&gt; desde el punto de vista del usuario, aunque siguiendo una máxima del marketing, hay que recordar:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Cuando algo es gratis, el producto eres tú” – Google, Facebook, Twitter…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Aquí es donde se encuentra el nexo entre usuarios y anuncios, la red social no solo te enlaza a tu vecino, compañero de clase, cafetería o famoso favorito, también te enlaza (o mejor dicho somos enlazados) con vendedores que venden los productos de los que alguna vez has hablado, con un master para continuar tu formación o con una operación estética. Esto hace unos años &lt;a href=&quot;http://gizmodo.com/5827703/facebook-now-wants-to-put-ads-in-your-personal-feed&quot;&gt;levantaba ampollas&lt;/a&gt;, en Gizmodo de hecho te invitaban a abandonar facebook.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-gusto-del-consumidor&quot;&gt;A Gusto del Consumidor&lt;/h2&gt;
+
+&lt;p&gt;No es una noticia nueva, y ya desde hace unos meses se habla de &lt;em&gt;timelines o feeds personalizados&lt;/em&gt;. Así, &lt;em&gt;facebook&lt;/em&gt; se adelantó y el 7 de Noviembre de 2014, en su &lt;a href=&quot;http://newsroom.fb.com&quot;&gt;blog de noticias&lt;/a&gt;, aparecía una &lt;a href=&quot;http://newsroom.fb.com/news/2014/11/news-feed-fyi-more-ways-to-control-what-you-see-in-your-news-feed/&quot;&gt;entrada&lt;/a&gt; que informaba de los cambios introducidos. Ahora en el &lt;em&gt;timeline&lt;/em&gt; se podía decidir si queríamos que aparecieran más contenidos de ese tipo, a través de nuestros “Me gusta”. O por el contrario indicar “No quiero recibir más contenido de este tipo” en las opciones desplegables de la publicación.&lt;/p&gt;
+
+&lt;p&gt;La idea, que parece en un principio dar más poder de elección al usuario y así despejar un poco el &lt;em&gt;timeline&lt;/em&gt;, tiene una cara B. Existe un algoritmo que seleccionará cuales podrían ser las noticias o publicaciones más interesantes, el temido &lt;strong&gt;criterio de relevancia&lt;/strong&gt; o la cantidad de “Me gusta” o visualizaciones que haya tenido esa publicación en tu circulo o a nivel global. Esto ha generado opiniones para todos los gustos. Los hay a favor y en contra, pero esto no es contenido para esta entrada.&lt;/p&gt;
+
+&lt;p&gt;Por lo visto, &lt;a href=&quot;http://blog.paper.li/2014/11/17/week-social-media-towards-personalized-feeds-twitter-facebook/&quot;&gt;la idea a gustado&lt;/a&gt; también en &lt;em&gt;Twitter&lt;/em&gt; y ya no solo te envían recomendaciones de a quien seguir. Sino que preparan también el &lt;em&gt;timeline&lt;/em&gt; personalizado dependiendo de nuestras interacciones con la red social.&lt;/p&gt;
+
+&lt;h2 id=&quot;noviembre-dulce-en-twitter&quot;&gt;Noviembre Dulce en Twitter&lt;/h2&gt;
+
+&lt;p&gt;También en Noviembre, &lt;em&gt;Twitter&lt;/em&gt; &lt;a href=&quot;http://techcrunch.com/2014/11/12/twitter-instant-timeline/&quot;&gt;daba a conocer los cambios&lt;/a&gt; que se iban a realizar en la red social, junto a ello, pequeños cambios en la interfaz tanto de la web como de sus correspondientes clientes oficiales. Todo esto, también ayudaba a monetizar la red de microblogging, algo que parecen haber conseguido de &lt;a href=&quot;https://medium.com/backchannel/how-twitter-found-its-money-mojo-1d170e3df985&quot;&gt;manera exitosa&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;En el &lt;a href=&quot;http://techcrunch.com/2014/11/12/twitter-instant-timeline/&quot;&gt;enlace&lt;/a&gt; anterior, de &lt;a href=&quot;http://techcrunch.com&quot;&gt;&lt;em&gt;Techcrunch&lt;/em&gt;&lt;/a&gt;, aparece una disimulada etiqueta en la que &lt;em&gt;Twitter&lt;/em&gt; decía haber &lt;strong&gt;organizado una división de investigación en neurociencias llamada &lt;em&gt;Neuroresearch&lt;/em&gt; para evaluar como las personas internalizaban los mensajes de sus anuncios&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://tctechcrunch2011.files.wordpress.com/2014/11/twitter-research-results.png?w=680&amp;amp;h=375&quot; alt=&quot;Resultados&quot; /&gt;&lt;br /&gt;
+Fuente: Techcrunch.com&lt;/p&gt;
+
+&lt;p&gt;Aparentemente, los resultados dejaban claro que &lt;em&gt;Twitter&lt;/em&gt; era la plataforma adecuada para promocionarse en internet. Sin embargo, no habían dejado claro en que había consistido esa investigación. No ha sido hasta ahora que en &lt;a href=&quot;http://medium.com&quot;&gt;&lt;em&gt;Medium&lt;/em&gt;&lt;/a&gt; ha aparecido un &lt;a href=&quot;https://medium.com/backchannel/this-is-your-brain-on-twitter-cac0725cea2b&quot;&gt;artículo&lt;/a&gt; relatando en que había consistido esta investigación.&lt;/p&gt;
+
+&lt;h2 id=&quot;caracteres-directos-al-tlamo&quot;&gt;140 Caracteres Directos al Tálamo.&lt;/h2&gt;
+
+&lt;p&gt;Los puntos más importantes de esta investigación, fueron; en primer lugar, los métodos utilizados y en segundo lugar, la cantidad de datos obtenidos gracias, en parte, a la metodología de investigación.&lt;/p&gt;
+
+&lt;p&gt;Según informan en el &lt;a href=&quot;https://medium.com/backchannel/this-is-your-brain-on-twitter-cac0725cea2b&quot;&gt;artículo&lt;/a&gt;, en un primer momento durante la emisión de un partido de baloncesto, se separó a los participantes en dos grupos. Uno de los grupos podía usar Twitter, haciendo uso de sus teléfonos, durante el partido. El segundo, no podían disponer de ningún tipo de pantalla secundaria. Ambos estaban equipados con medidores de respuesta galvánica en muñecas y frente, de ritmo cardíaco, y gafas de seguimiento ocular.&lt;/p&gt;
+
+&lt;p&gt;Los resultados indicaban que todas las mediciones eran superiores en todos los aspectos en el grupo que tenía acceso a &lt;em&gt;Twitter&lt;/em&gt; en comparación con el grupo que no tenía acceso a él. Jeffrey Graham se dio cuenta de que podían haber encontrado algo, pero realmente estas indicaciones podían no decir nada sino se trataba de aislar más los factores que disparaban esas señales. Aquí personalmente, debe de agradecer la vista que Graham tuvo, puesto que el simple hecho de introducir una opción de interaccionar, iba a dar una mayor respuesta que en un escenario en el cual esta opción no está disponible.&lt;/p&gt;
+
+&lt;p&gt;Graham sabía que la neurociencia era el camino a seguir, pero una &lt;a href=&quot;https://es.wikipedia.org/wiki/Imagen_por_resonancia_magnética_funcional&quot;&gt;Resonancia Magnetica funcional (RMf)&lt;/a&gt;, no iba a ser una experiencia muy cercana a la “situación natural” en la que se &lt;em&gt;twittea&lt;/em&gt;. Así que se recurrió a la empresa NeuroInsight, que haciendo uso de la &lt;a href=&quot;https://en.wikipedia.org/wiki/Steady_state_topography&quot;&gt;Topografía de Estado Estable (SST)&lt;/a&gt;, permitiría el uso de &lt;em&gt;Twitter&lt;/em&gt; de una manera más natural.&lt;/p&gt;
+
+&lt;p&gt;Haciendo uso de esta técnica, 114 personas participaron en un estudio en las oficinas de &lt;em&gt;Twitter&lt;/em&gt; en Reino Unido. Organizados en grupos de más o menos 20 personas, vistieron una suerte de cascos (bastante cómodos, según dicen) y unas gafas que iban enviando luces de manera alterna y rítmica mientras miden la actividad de diferentes partes del cerebro.&lt;/p&gt;
+
+&lt;p&gt;En sesiones de 45 minutos alternaban entre la navegación por la red y hacer uso de &lt;em&gt;Twitter&lt;/em&gt;. El objetivo era claro, obtener diferencias a nivel de activación neuronal significativas, entre las dos actividades.&lt;/p&gt;
+
+&lt;p&gt;Los resultados “confirmaron” esta hipótesis y otras hipótesis planteadas a partir de la primera.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Se deseaba conocer si había una señal neuronal que correlacionara con información relativa a “ti”, en un “sentido de relevancia personal”.&lt;/em&gt; Para ello se comparó la actividad entre leer y moverse por la red social, twittear o retwittear y la actividad de navegar por cualquier otro lugar de internet. &lt;strong&gt;Los resultados mostraron que el uso pasivo de Twitter aumentaba la relevancia personal en un 27%, y que el uso activo lo elevaba hasta el 51%.&lt;/strong&gt; NeuroInsight comentó que este nivel de activación solo se daba cuando las personas abrían una carta personal dirigida a ellos. Podéis imaginar el nivel de romanticismo.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Se deseaba conocer si Twitter activaba más intensidad emocional que el uso normal de Internet.&lt;/em&gt; &lt;strong&gt;En este caso, los resultados arrojaban que solo el hecho de leer generaba un 64% más y la actividad en &lt;em&gt;Twitter&lt;/em&gt; un 75%.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Finalmente, &lt;em&gt;se deseaba conocer si Twitter promovía mayor retención en memoria.&lt;/em&gt; Para mí, esta es una de las hipótesis más interesantes. &lt;strong&gt;Los resultados fueron de una activación del 34% mayor en zonas relacionadas con la memoria, durante el uso pasivo, y de un 56% durante el activo.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;¿Es Twitter LA RED SOCIAL?¿Son esos 140 caracteres, esa necesidad de crear impacto en tan reducido espacio una de sus principales ventajas?&lt;/p&gt;
+
+&lt;p&gt;Aunque hablamos de activación de zonas del cerebro, y su diferencia frente a otras actividades, no se puede dejar de especular con estos resultados. La replicación y el uso de algún otro método contrastado podrían ayudar a esclarecer si se trata solo de una maniobra de marketing o “neuromarketing” más o si de verdad el diseño de &lt;em&gt;Twitter&lt;/em&gt; marca una diferencia frente a su competencia.&lt;/p&gt;
+
+&lt;p&gt;No quiero dejar de insistir en que me para mí la noticia aquí, es que la neurociencia lleva tiempo tendiendo puentes entre el comportamiento y el diseño. &lt;em&gt;Twitter&lt;/em&gt; lo sabe, la psicología y la red están unidas, porque allí donde hay personas, hay psicología, y si las redes sociales están robándole protagonismo a buscadores y blogs hay que estar ahí.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  
+</feed>

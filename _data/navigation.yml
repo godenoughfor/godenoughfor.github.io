@@ -1,19 +1,16 @@
 # Site navigation links
 
-- title: Acerca de
-  url: /about/
+- title: Proyectos
+  url: /projects/
+  excerpt: "Lo que está por venir."
+  image:
 
-- title: Artículos
-  url: /articles/
+- title: CV
+  url: /cv/
+  excerpt: "¿Qué hago profesionalmente?"
+  image:
 
-- title: Blog
-  url: /blog/
-
-- title: Académico
-  url: /academico/
-
-- title: Lecturas
-  url: /lectura/
-
-- title: Búsqueda
-  url: /search/
+- title: Reading List
+  url: /reading/
+  excerpt: "¿Qué leo cuando no trabajo?"
+  image:

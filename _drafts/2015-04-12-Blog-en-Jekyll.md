@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Blogeando en Jekyll"
 categories: blog
 date: 2015-04-12 13:30

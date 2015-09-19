@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: "Herramientas para el Trabajo Fin de Grado"
 categories: academico
 tags: [universidad, TFG]

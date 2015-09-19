@@ -1,493 +1,426 @@
-body {
-	margin: 0;
-	padding: 0;
-	width: 100%;
-	background-color: $body-color;
-	border-top: 5px solid $black;
-}
+/* ==========================================================================
+   Page layout
+   ========================================================================== */
 
+/*
+   Masthead
+   ========================================================================== */
 
-// Top Navigation
-// --------------------------------------------------
-
-.navigation-wrapper {
-	text-align: center;
-	@include clearfix;
-	ul {
-		display: inline-block;
-		width: 100%;
-		vertical-align: top;
-		margin: 0 0 50px;
-		padding: 4px 20px;
-		background-color: $black;
-		@include media($medium) {
-			width: auto;
-			@include rounded(0 0 10px 10px);
-		}
-		@include clearfix;
-	}
-	li {
-		display: block;
-		float: left;
-		list-style: none;
-		text-align: center;
-		@include font-size(24,no);
-		text-transform: uppercase;
-		color: $white;
-		@include media($medium) {
-			@include font-size(14,no);
-		}
-		a:hover {
-			@include box-shadow($shadow: inset 0 0 1px $white);
-		}
-	}
-	a {
-		display: block;
-		margin-bottom: 10px;
-		padding: 12px 20px;
-		@include media($medium) {
-			margin-bottom: 0;
-			padding: 6px 10px;
-		}
-		color: $white;
-		@include rounded(4px);
-		&:hover {
-			background-color: lighten($black, 10);
-		}
-	}
-}
-// Responsive nav toggle stuff
-#site-nav {
-	display: none;
+#masthead {
+	padding: $gutter;
 	z-index: 5;
+	@include transform(translate(0,0));
+	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
+	&.slide {
+		@include transform(translate(-1600px,0));
+	}
+	.inner-wrap {
+		@include outer-container;
+	}
+}
+.site-logo {
+	@include animation(fadeIn 1.0s ease-in 0s normal both);
+	@include row; // this keep the logo to fly away
+	@include span-columns(1);
+	height: $masthead-height;
+	width: $masthead-height;
+}
+.site-title {
+	@include animation(fadeIn 1.0s ease-in 0s normal both);
+	@include row;
+	@include media($large) {
+		@include span-columns(2);
+	}
 	@include media($medium) {
-		-webkit-animation-duration: 1s;
-		-moz-animation-duration: 1s;
-		-o-animation-duration: 1s;
-		animation-duration: 1s;
+		@include span-columns(2);
 	}
-	&.closed {
-		@include media($medium) {
-			display: block;
-		}
+	@include media($small) {
+		@include span-columns(2);
 	}
-	&.opened {
-		display: block;
-		max-height: 100%;
-		li {
-			float: none;
+	padding: (.25 * $masthead-height) 0; // fourth the height to center vertically
+	height: $masthead-height;
+	text-decoration: none;
+	color: $black;
+	font-family: $alt-font;
+	font-weight: 700;
+	@include font-size(20,no);
+	line-height: .5 * $masthead-height; // half the height to center vertically
+	text-transform: uppercase;
+	float: left;
+	display: inline-block;
+}
+
+
+/*
+   Menus
+   ========================================================================== */
+
+.menu {
+	@include animation(fadeIn 1.0s ease-in 0.5s normal both);
+	li {
+		float: right;
+		&:last-child a {
 			@include media($medium) {
-				float: left;
+				margin-left: 0; // remove spacing from last menu link
+			}
+			@include media($large) {
+				margin-left: 0; // remove spacing from last menu link
+			}
+			@include media($small) {
+				margin-left: 0; // remove spacing from last menu link
+			}
+		}
+		a {
+			// line hover effect
+			position: relative;
+			display: block;
+			margin-right: $gutter;
+			padding: (.25 * $masthead-height) 0 (.25 * $masthead-height) ;
+			height: $masthead-height;
+			font-family: $alt-font;
+			&:before,
+			&:after {
+				content: '';
+				display: block;
+				position: absolute;
+				top: 0;
+				left: 0;
+				height: 2px;
+				@include transition(width 0.3s);
+			}
+			&:before {
+				width: 100%;
+				background: transparent;
+			}
+			&:after {
+				width: 0;
+				background: $danger-color;
+			}
+			&:active:after,
+			&:hover:after {
+				width: 100%;
 			}
 		}
 	}
 }
-.no-js #site-nav {
-	display: block;
-}	
-#nav-toggle { 
-	z-index: 20;
-	display: block;
-	vertical-align: top;
-	margin: 0;
-	padding: 6px 20px;
-	background-color: $black;
-	height: 44px;
-	@include rounded(0);
-	@include media($medium) {
+
+/* Top menu navigation */
+
+.top-menu {
+	display: inline-block;
+	position: relative;
+	float: right;
+	@include media($micro) {
+		@include span-columns(12);
+		ul {
+			position: relative;
+			right: 0;
+			float: left;
+		}
+	}
+	.home,
+	.sub-menu-item {
 		display: none;
 	}
-}
-// menu overlay
-.menu-screen {
-	@include position(fixed, 0px 0px 0px 0px);
-	@include transition;
-	background: $black;
-	opacity: 0;
-	visibility: hidden;
-	z-index: 10;
-	&.is-visible {
-		opacity: 1;
-		visibility: visible;
-		&:hover {
-			cursor: pointer;
+	li {
+		a {
+			font-weight: 700;
+			@include font-size(16,no);
+			line-height: .5 * $masthead-height; // half the height to center vertically
+			color: $black;
+			text-transform: uppercase;
 		}
 	}
 }
 
+/* Bottom menu navigation */
 
-// Masthead
-// --------------------------------------------------
-
-.masthead {
-	margin-top: 40px;
+.bottom-menu {
 	@include clearfix;
-	@include media($medium) {
-		margin-top: 0;
-	}
-	.wrap {
-		text-align: center;
-		max-width: em(440);
-		padding-right: 20px;
-		padding-left: 20px;
-		@include media($medium) {
-			max-width: em(728);
-			padding-right: 60px;
-			padding-left: 60px;
-		}
-		@include media($large) {
-			max-width: em(960);
-		}
-	}
-}
-.site-logo {
-	img {
-		width: 100px;
-		height: 100px;
-		@include animation-duration(1s);
-	    @include animation-delay(.05s);
-	    border: 0;
-	    @include (100px);
-		@include media($medium) {
-			width: 150px;
-			height: 150px;
-		}
-		@include media($large) {
-			width: 200px;
-			height: 200px;
-		}
-	}
-}
-.site-title {
-	margin-bottom: 0;
-	@include animation-duration(1s);
-    @include animation-delay(.75s);
-	a { 
-		color: $black; 
-	}
-}
-.site-description {
-	margin-top: 0;
-	font-family: $alt-font;
-	@include font-size(16);
-	font-weight: 400;
-	font-style: italic;
-	@include animation-duration(1s);
-    @include animation-delay(1s);
-	@include media($medium) {
-		@include font-size(20);
+	font-weight: 700;
+	a {
+		color: lighten($black,60);
 	}
 }
 
 
-// Main
-// --------------------------------------------------
+/*
+   Page wrapper
+   ========================================================================== */
+
+#page-wrapper {
+	padding: 0 $gutter; // add white space for smaller screens
+	@include size(100% 100%);
+	-webkit-overflow-scrolling: touch;
+	z-index: 2;
+	@include transform(translate(0,0));
+	@include transition(500ms cubic-bezier(.645,.045,.355,1.000));
+	&.slide {
+		@include transform(translate(-60rem,0));
+	}
+}
+
+/*
+   Main content
+   ========================================================================== */
 
 #main {
-	@include clearfix;
-}
-.entry,
-.hentry {
-	@include clearfix;
-	border-bottom: 1px solid lighten($black,80);
-	border-bottom: 1px solid rgba($black,.10);
-}
-.entry-feature-image {
-	margin: 20px 0 0;
-	width: 100%;
-	@include media($medium) {
-		margin-top: -75px;
-	}
-	@include media($large) {
-		margin-top: -145px;
-	}
-}
-.entry-header {
-	@include fill-parent;
-}
-.entry-tags {
-	display: block;
-	margin-top: 2em;
-	text-transform: uppercase;
-	@include font-size(16);
-	font-weight: 600;
-	a { 
-		color: $text-color; 
-	}
-}
-span + .entry-title {
-	margin-top: 0;
-}
-.entry-title {
-	font-family: $alt-font;
-	font-style: italic;
-	@include font-size(36,yes,36);
-	font-weight: 400;
-	line-height: 1;
-	letter-spacing: -3px;
-	a {
-		color: $black;
-		text-decoration: underline;
-	}
-	@include media($medium) {
-		@include font-size(52,yes,54);
-	}
-	@include media($large) {
-		@include font-size(68,yes,72);
-	}
-}
-.entry-wrapper {
-	@include outer-container;
-	margin-top: 0;
-	margin-bottom: 3em;
-	padding-right: $gutter;
-	padding-left: $gutter;
-}
-.entry-meta {
-	@include span-columns(12);
-	text-transform: uppercase;
-	@include font-size(14);
-	a { 
-		color: $text-color; 
-	}
-	@include media($large) {
-		@include span-columns(2.5);
-	}
-	& > span {
-		padding: 0 20px 10px 0;
-		display: inline-block;
-		@include media($large) {
-			display: block;
-			padding: 8px 0;
-			border-bottom: 1px solid lighten($black,80);
-			border-bottom: 1px solid rgba($black,.10);
+	@include animation(fadeIn 1.0s ease-in 1.25s normal both);
+	.inner-wrap {
+		@include media($medium) {
+			@include span-columns(9);
 		}
 	}
-}
-.bio-photo {
-	display: none;
-	@include media($large) {
-		display: block;
-		width: 150px;
-		height: 150px;
-		margin-bottom: 10px;
-		@include rounded(150px);
-		@include clearfix;
+	.page-title {
+		@include fill-parent;
 	}
-}
-.entry-content {
-	@include span-columns(12);
-	p:first-child {
-		margin-top: 0;
-	}
-	@include media($large) {
-		@include span-columns(9.5);
-	}
-	p > a,
-	li > a {
-		border-bottom: 1px dotted lighten($link-color, 50);
-		&:hover {
-			border-bottom-style: solid;
+	@at-root {
+		.page-content {
+			@include fill-parent;
+			// larger font for intro paragraph
+			> p {
+				&:first-child {
+					@include font-size(20,yes,30);
+				}
+			}
+			// cleaner underlines for links
+			a { text-decoration: none; }
+			p a,
+			li a {
+				border-bottom: 1px dotted lighten($link-color, 50);
+				&:hover {
+					border-bottom-style: solid;
+				}
+			}
+			p > a.reversefootnote {
+				border-bottom-width: 0;
+			}
+      .toc li > a {
+        border-bottom-width: 0;
+      }
+			.page-footer,
+			.pagination {
+				@include fill-parent;
+			}
+			.page-meta {
+				p{
+					@include font-size(14,no);
+					font-family: $alt-font;
+					color: lighten($black,60);
+				}
+			}
 		}
 	}
-}
-.post-list {
-	li > a {
-		border-bottom-width: 0;
+	@at-root {
+		.archive-wrap {
+			@include fill-parent;
+			.page-content {
+				@include reset-all;
+				@include fill-parent;
+			}
+		}
 	}
-}
-// Disqus Comments
-#disqus_thread {
-	margin-top: 2em;
-}
-// Pagination
-.pagination {
-	margin-top: 2em;
-	text-align: center;
-}
-// Page layout
-#home,
-#page {
-	.entry-wrapper {
-		max-width: em(760);
-	}
-	.entry-title {
+  /* advertisements */
+	.ads {
+		position: relative;
 		text-align: center;
-		max-width: 100%;
-	}
-	.entry-content {
-		@include span-columns(12);
-	}
-}
-// Post index layout
-.post-list {
-	margin: 0;
-	padding: 0;
-	list-style-type: none;
-	li {
-		padding: 8px 0;
-		border-bottom: 1px solid lighten($black,80);
-		border-bottom: 1px solid rgba($black,.10);
-		@include font-size(18,no);
-		@include clearfix;
-	}
-	a > span {
-		float: right;
-	}
-	.entry-date {
-		@include font-size(14,no);
-		text-transform: uppercase;
-		display: none;
+		margin-top: $gutter;
+		margin-left: -$gutter;
+		margin-right: -$gutter;
+		padding: 10px 0 20px;
+		background: lighten($border-color,5);
 		@include media($medium) {
-			display: inline;
+			@include span-columns(3);
+			margin-left: 0;
+			margin-right: 0;
+		}
+		&:after {
+			content: 'Advertisement';
+			position: absolute;
+			bottom: 0;
+			width: 100%;
+			text-align: center;
+			display: block;
+			@include font-size(9,no);
+			font-family: $alt-font;
+		}
+		ins {
+			border-width: 0;
 		}
 	}
-	/* post excerpt */
-	.excerpt {
-		display: block;
-		float: none;
-		@include font-size(14, no, 16);
+}
+// page lead
+.page-lead {
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	text-align: center;
+	color: $white;
+	@include media($large) {
+		background-size: cover;
+	}
+}
+.page-lead-content {
+	padding: 1em;
+	@include media($medium) {
+		padding: 2em;
+	}
+	@include media($large) {
+		padding: 3em;
+	}
+	h1 {
+		@include font-size(48);
 		@include media($medium) {
-			width: 70%;
+			@include font-size(60);
 		}
 		@include media($large) {
-			width: 60%;
+			@include font-size(72);
+		}
+	}
+	h2 {
+		@include font-size(20);
+		@include media($medium) {
+			@include font-size(24);
+		}
+		@include media($large) {
+			@include font-size(32);
 		}
 	}
 }
-// Tag index
-.tag-box {
-	list-style: none;
-	margin: 0;
-	padding: 4px 0;
-	overflow: hidden;
-	@include clearfix;
-	&.inline li {
-		float: left;
-		@include font-size(14);
-		line-height: 2.5;
+// page header
+.page-feature {
+	@include animation(fadeIn 1.0s ease-in 1s normal both);
+	@include fill-parent;
+	// expand image to cover full width of header
+	img {
+		width: 100%;
 	}
-	a { 
-		padding: 4px 6px;
-		margin: 2px;
-		background-color: lighten($black, 90);
-		@include rounded(4px);
-		text-decoration: none;
-		span { 
-			vertical-align: super;
-			@include font-size(10);
+}
+// make image flush with edges on small screens
+.page-image {
+	position: relative;
+	margin-left: -1 * $gutter;
+	margin-right: -1 * $gutter;
+	// feature image caption
+	.image-credit {
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		margin: 0 auto;
+		padding: 10px 15px;
+		background-color: rgba($black,.5);
+		color: $white;
+		font-family: $alt-font;
+		@include font-size(12,no);
+		text-align: right;
+		z-index: 10;
+		a {
+			color: $white;
+			text-decoration: none;
 		}
 	}
 }
-// Table of Contents
-// table of contents
-#markdown-toc {
-	font-family: $alt-font;
-	margin-top: $gutter;
-	margin-bottom: $gutter;
-	padding-left: 0;
-	border: 1px solid $border-color;
-	border-radius: $border-radius;
-  ul {
-  	list-style-type: none;
-  	padding-left: 0;
-  }
-  li {
-    @include font-size(16,no,18);
-    border-bottom: 1px solid $border-color;
-    list-style-type: none;
-  }
-  h6 {
-    margin: 0;
-    padding: (.25 * $gutter) (.5 * $gutter);
-    background: $table-stripe-color;
-  }
-  a {
-    display: block;
-    padding: (.25 * $gutter) (.5 * $gutter);
-    border-left: 2px solid transparent;
-    border-bottom: 0 solid transparent;
-    &:hover,
-    &:focus {
-      background: lighten($border-color,5);
-    }
-  }
-}
 
+/*
+	Landing Page Exclusive
+	========================================================================= */
 
-// Footer
-// --------------------------------------------------
-
-.footer-wrapper {
-	@include clearfix;
-	margin: 2em auto;
-	text-align: center;
-	font-family: $alt-font;
-	@include font-size(14);
-	font-style: italic;
-	color: lighten($text-color,20);
-	a {
-		color: lighten($text-color,20);
+#landing-content {
+	@include animation(fadeIn 1.0s ease-in 1s normal both);
+	@include background(url("/images/almeria-1.jpg") no-repeat center);
+	background-size: cover;
+	height: $masthead-height * 8;
+	.landing-site-title {
+		color: #ffffff;
+		text-transform: uppercase;
+		text-align: center;
+		padding: auto;
+		line-height: $masthead-height * 4;
+		font-size: 3 em;
+	}
+	.landing-site-subtitle {
+		color:#eeeeee;
+		text-align: center;
+		padding: auto;
+		font-family: $alt-font;
+		font-size: 36px;
+	}
+	h1 {
+		@include font-size(48);
+		@include media($medium) {
+			@include font-size(60);
+		}
+		@include media($large) {
+			@include font-size(72);
+		}
+	}
+	h2 {
+		@include font-size(20);
+		@include media($medium) {
+			@include font-size(24);
+		}
+		@include media($large) {
+			@include font-size(32);
+		}
 	}
 }
 
+.tiles {
+	@include animation(fadeIn 1.0s ease-in 1.5s normal both);
+	@include span-columns(6);
+	@include shift(3);
+}
 
-// Search Overlay
-// --------------------------------------------------
+/*
+   Page footer
+   ========================================================================== */
 
-.search-wrapper {
-	@include outer-container;
+.page-footer {
+	position: relative;
+}
+
+/* Author block */
+
+.author-image {
+	position: absolute;
+	left: 0;
+	img {
+		width: 80px;
+		height: 80px;
+		border-radius: $border-radius;
+	}
+}
+.author-content {
+	word-wrap: break-word;
+	padding-left: 100px; //avatar width + 20px padding
+	min-height: 80px; //mirrors avatar height
+}
+.author-name {
+	@include font-size(20,no);
+}
+.author-bio {
 	margin-top: 0;
-	padding-right: $gutter;
-	padding-left: $gutter;
-	height: 1px;
+	@include font-size(16);
 }
 
+/*
+   Site footer
+   ========================================================================== */
 
-// Social Icons
-// --------------------------------------------------
-
-.social-icons {
-	margin: 1em 0 2em;
-	a {
-		padding: 4px 8px;
-		&:hover { 
-			color: $black; 
+#site-footer {
+	@include animation(fadeIn 1.0s ease-in 2.0s normal both);
+	@include outer-container;
+	margin-top: (3 * (0px + $doc-line-height));
+	margin-top: (3 * (0rem + ($doc-line-height / $doc-font-size)));
+	padding-bottom: $gutter;
+	font-family: $alt-font;
+  /* Copyright text */
+	.copyright {
+		@include font-size(12);
+		color: lighten($black,60);
+		a {
+			color: lighten($black,60);
+			text-decoration: none;
 		}
 	}
-}
-
-
-// Browser Upgrade
-// --------------------------------------------------
-
-.upgrade {
-	padding: 10px;
-	text-align: center;
-}
-
-
-// Google Search Form
-// --------------------------------------------------
-
-#goog-fixurl {
-	ul {
-		list-style: none;
-		margin-left: 0;
-		padding-left: 0;
-		li {
-			list-style-type: none;
-		}
-	}
-}
-#goog-wm-qt {
-	width: auto;
-	margin-right: 10px;
-	padding: 8px 10px;
-	@include font-size(14);
-	border-width: 2px;
-	border-radius: $border-radius;
-}
-#goog-wm-sb {
-	@extend .btn;
 }

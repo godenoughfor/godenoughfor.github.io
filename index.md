@@ -1,12 +1,16 @@
 ---
-layout: page
-title: Últimas entradas
-excerpt: "Entre cables y neuronas."
-search_omit: true
+layout: archive
+permalink: /
+title: ""
 ---
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>{% if post.excerpt %} <span class="excerpt">{{ post.excerpt }}</span>{% endif %}</a></article></li>
+<div id="landing-content">
+    <h1 class="landing-site-title">Enoughmind</h1>
+    <h2 class="landing-site-subtitle">Psicología y tecnología</h2>
+</div>
+<div class="tiles">
+<h2>Últimas Entradas</h2>
+{% for post in site.posts %}
+	{% include post-list.html %}
 {% endfor %}
-</ul>
+</div><!-- /.tiles -->
