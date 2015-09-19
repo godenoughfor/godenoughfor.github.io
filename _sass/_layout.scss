@@ -365,10 +365,13 @@
 	}
 }
 
-.tiles {
+.post-list {
 	@include animation(fadeIn 1.0s ease-in 1.5s normal both);
 	@include span-columns(6);
 	@include shift(3);
+	li {
+		@include {all 0.2 ease-out}
+	}
 }
 
 /*
