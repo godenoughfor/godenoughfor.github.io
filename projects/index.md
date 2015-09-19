@@ -1,12 +1,13 @@
 ---
 layout: archive
-title: {{ title }}
+title: Proyectos
 date: {{ date }}
 modified:
-excerpt:
+excerpt: 
 image:
-  feature:
+  feature: construction-work-carpenter-tools.jpg
   teaser:
   thumb:
 ---
 
+Estamos trabajando en ello.
