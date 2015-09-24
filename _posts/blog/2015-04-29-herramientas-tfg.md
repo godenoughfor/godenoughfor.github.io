@@ -37,6 +37,6 @@ No desfallezcáis, si habéis llegado hasta aquí, este es ya el menor de vuestr
 [directrices]: http://umh1891.edu.umh.es/wp-content/uploads/sites/348/2013/02/Directrices-TFG-Facultad-Psicolog%C3%ADa-MODIF.pdf
 [doc]: ../../downloads/APA_6th_template.doc "Plantilla 97/2003"
 [docx]: ../../downloads/APA_6th_template.docx "Plantilla 2003-2016"
-[plantilla]: ../../downloads/plantilla_TFG.doc "Plantilla UMH"
+[plantilla]: ../../downloads/Plantilla_TFG.doc "Plantilla UMH"
 [zotero]: https://www.zotero.org
 [mendeley]: https://www.mendeley.com
