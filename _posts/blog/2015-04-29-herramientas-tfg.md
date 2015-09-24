@@ -18,7 +18,7 @@ Las directrices específicas pueden ser encontradas en este [enlace][directrices
 
 > Formato del documento: Los trabajos se elaborarán en formato Word, tamaño A4, con márgenes de 2,5 cm, con el texto en letra Arial 11, interlineado de 1,5 y texto justificado.
 
-Las reglas de publicación de APA para manuscritos, definen exactamente los mismos márgenes, sin embargo, la letra utilizada es Times o Times New Roman, de tamaño 12, con interlineado de doble espacio y texto sin justificar. Esto realmente no importa, pero si por alguna razón alguna vez tenéis que hacer un trabajo con reglas de publicación APA, dejo aquí unas traducciones que he realizado de unas plantillas preparadas Word en sus versiones [97/2003][doc] y [2003 en adelante][docx].
+Las reglas de publicación de APA para manuscritos, definen exactamente los mismos márgenes, sin embargo, la letra utilizada es Times o Times New Roman, de tamaño 12, con interlineado de doble espacio y texto sin justificar. Esto realmente no importa, pero si por alguna razón alguna vez tenéis que hacer un trabajo con reglas de publicación APA, dejo aquí unas traducciones que he realizado de unas plantillas preparadas para Word en sus versiones [97/2003][doc] y [2003 en adelante][docx].
 
 Para este caso, he dejado [una plantilla][plantilla] de APA 6.0, con las especificaciones que la Universidad Miguel Hernández tenía en 2014-2015, y que supongo que se mantendrán durante un tiempo.
 
