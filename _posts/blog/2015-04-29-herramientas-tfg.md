@@ -10,7 +10,7 @@ share: true
 
 ---
 
-Después de enfrentarme al trance que supone la creación del Trabajo de Fin de Grado, (TFG), me gustaría compartir con vosotros algunos de los recursos creados o que llevo utilizando a lo largo de toda mi carrera. Voy tratar de ser sencillo y tratar todos los temas posibles.
+Después de enfrentarme al trance que supone la creación del Trabajo de Fin de Grado, (TFG), me gustaría compartir con vosotros algunos de los recursos creados o que llevo utilizando a lo largo de toda mi carrera. Voy tratar de ser sencillo para que esto sirva como introducción.
 
 ## Formato
 
