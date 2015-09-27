@@ -9,7 +9,7 @@ comments: true
 share: true 
 ---
 
-No era especialmente un fan de los profesores de "compra mi libro para mi asignatura" por pensar en ello como una maniobra de monetizar, de manera externa, la materia que impartían en la universidad. Pero todo ello cambió al ver que también podía hacer más fácil a los alumnos.
+No era especialmente un fan de los profesores de "compra mi libro para mi asignatura" por pensar en ello como una maniobra de monetizar, de manera externa, la materia que impartían en la universidad. Todo ello cambió al ver que también podía hacer más fácil la vida a sus los alumnos.
 
 Pero todo tienen un pero, y este es que si eliges una plataforma cerrada para dar salida a tus escritos puedes estar haciéndole la vida imposible a tus alumnos. Al editar tu libro en Amazon estás haciendo que no sea imprimible, ni tampoco portable a otras plataformas que no sea el Kindle, el cual os recomiendo que os compréis si estáis pensando en un e-book.
 
