@@ -34,9 +34,12 @@ Por ahora y asumiendo que todos o tenéis Windows o Mac, os recomiendo [Zotero][
 
 No desfallezcáis, si habéis llegado hasta aquí, este es ya el menor de vuestros problemas para ser graduados. ¡Ánimo!
 
+*Actualización*: Hace unos días se ha abierto un curso para la elaboración de textos académicos. Termina en Noviembre, está apadrinado por la Universidad, Rey Juan Carlos y es muy completo. Solo debéis registraros en la plataforma y comenzar con él. [Aquí más información.][curso]
+
 [directrices]: http://umh1891.edu.umh.es/wp-content/uploads/sites/348/2013/02/Directrices-TFG-Facultad-Psicolog%C3%ADa-MODIF.pdf
 [doc]: ../../downloads/APA_6th_template.doc "Plantilla 97/2003"
 [docx]: ../../downloads/APA_6th_template.docx "Plantilla 2003-2016"
 [plantilla]: ../../downloads/Plantilla_TFG.doc "Plantilla UMH"
 [zotero]: https://www.zotero.org
 [mendeley]: https://www.mendeley.com
+[curso]: https://miriadax.net/web/elaborar-texto-academico-humanidades-cienciassociales-2ed
