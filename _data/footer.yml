@@ -1,7 +1,7 @@
 # Footer navigation links
 
 - title: Contacto
-  url: mailto:jmartgod@enoughmind.com
+  url: "mailto:jmartgod@enoughmind.com"
 
-- title: Subscribe
-  url:
+- title: Donar
+  url: http://www.paypal.me/godenoughfor
