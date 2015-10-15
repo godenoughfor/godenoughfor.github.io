@@ -9,7 +9,7 @@
   <subtitle>Tecnología, psicología y datos.</subtitle>
   <link href="http://localhost:4000/atom.xml" rel="self"/>
   <link href="http://localhost:4000/" rel="alternate" type="text/html"/>
-  <updated>2015-09-19T17:32:04+02:00</updated>
+  <updated>2015-10-15T19:45:21+02:00</updated>
   <id>http://localhost:4000/</id>
   <author>
     <name>José Godoy</name>
@@ -17,6 +17,165 @@
     <email>jmartgod@enoughmind.com</email>
   </author>
 
+  
+  <entry>
+    <title>Gestores bibliográficos: Papers vs Mendeley vs Zotero</title>
+    <link href="http://localhost:4000/blog/gestores-bibliograficos/"/>
+    <updated>2015-10-07T00:00:00+02:00</updated>
+    <id>http://localhost:4000/blog/gestores-bibliograficos</id>
+    <author>
+      <name>José Godoy</name>
+      <uri>http://localhost:4000/</uri>
+      <email>jmartgod@enoughmind.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;¿Qué opciones tenemos a la hora de manejar nuestra biblioteca de artículos, libros y vídeos? Un gestor bibliográfico es algo que en algún momento tanto investigadores como estudiantes deberían de saber manejar. En un mundo donde la información y desinformación crece de manera exponencial no puedes arriesgarte a perder en tu disco duro “aquel artículo que explicaba muy bien el constructo que quería usar para…”.&lt;/p&gt;
+
+&lt;p&gt;Así pues, vengo a poner ente vuestros ojos tres opciones, dentro de las miles, que he probado a lo largo de mi carrera y que me he permitido revisitar recientemente para ver que tal han evolucionado.&lt;/p&gt;
+
+&lt;h1 id=&quot;zotero-0-windowslinuxmacosx&quot;&gt;Zotero, 0€, Windows/Linux/MacOSX&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/zotero.png&quot; height=&quot;120&quot; width=&quot;120&quot; style=&quot;display: block;     margin-left: auto;     margin-right: auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Zotero, para mí, es el más sencillo y el primero que pude probar. Está basado en dos programas que funcionan. Uno, el gestor bibliográfico como tal, que se instala en tu sistema operativo de elección. Y otro que es el plugin de Firefox, que sirve para capturar el contenido de la web e incluirlo directamente en tu base de datos bibliográfica. Muy útil para añadir vídeos de Youtube, papers en formato HTML o cuando se navega por ScienceDirect o JSTOR, añadir cualquier artículo enlazado con un solo clic.&lt;/p&gt;
+
+&lt;p&gt;Tiene unas capacidades de sincronización un poco reducidas, pues está limitado a 100MB. Aunque teniendo en cuenta que estas solo se refieren a los datos, en formato texto, podemos hablar de espacio de sobra.&lt;/p&gt;
+
+&lt;p&gt;Hace poco a añadido la capacidad de citar desde cualquier editor de texto, aunque su fuerte sigue siendo Word y aún no está soportada la versión 2016.&lt;/p&gt;
+
+&lt;h1 id=&quot;mendeley-0-windowslinuxmacosx&quot;&gt;Mendeley, 0€, Windows/Linux/MacOSX&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/mendeley.jpg&quot; height=&quot;120&quot; width=&quot;120&quot; style=&quot;display: block;     margin-left: auto;     margin-right: auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mendeley pretende añadir algo más a la mezcla. Es un salto cualitativo desde Zotero en cuanto a la posibilidad de anotar y subrayar PDFs, para después compartirlo con tus compañeros de investigación o institución. Sin embargo, queda por detrás en la sencillez que tiene Zotero para añadir contenido.&lt;/p&gt;
+
+&lt;p&gt;Esta aplicación tiene un importador web, multiplataforma (no solo con Firefox), pero nunca he conseguido que el contenido importado capture los metadatos de manera adecuada y toca siempre volver a darle otra vuelta para arreglarlos. Su sincronización es mucho mejor que la de Zotero. Aquí no solo compartes los datos de la base de datos entre diferentes máquinas sino también la biblioteca PDF. Para ellos tienes acceso a un espacio de 2GB gratis, muchos más, si pagas.&lt;/p&gt;
+
+&lt;p&gt;Otro de sus fuertes es que si es necesario, no necesitas instalarte ningún programa para ojear algún PDF en el ordenador de la biblioteca de tu universidad. Tienes un entorno web perfectamente integrado y fácil de usar.&lt;/p&gt;
+
+&lt;p&gt;Esta es la opción que estoy usando actualmente, ¿la razón?, es bien sencilla. La sincronización automática con Bibtex, un formato que permite insertar citaciones en documentos con LaTeX, aunque esa es otra historia, que debe ser contada en otro momento.&lt;/p&gt;
+
+&lt;h1 id=&quot;papers-5934-windows-macosx&quot;&gt;Papers, 59€/34€, Windows, MacOSX&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;../../images/papers.png&quot; height=&quot;120&quot; width=&quot;120&quot; style=&quot;display: block;     margin-left: auto;     margin-right: auto&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Aunque es la única opción de pago vale cada euro que se pueda poner en ella. Para empezar a diferencia de las anteriores, Papers 3 ya incluye la búsqueda, descarga e indizado en base de datos desde dentro de la aplicación. Si configuras el proxi de acceso a través de la universidad o si la usas desde dentro de tu institución es un verdadero placer.&lt;/p&gt;
+
+&lt;p&gt;Al descargar un PDF y añadirlo desde nuestro disco duro, Papers, compara los metadatos del documento con la de las bases de datos bibliográficas más conocidas y devuelve los datos corregidos, siempre preguntándote si quieres sustituirlos por los que el documento te ofrece por defecto. Es sorprendente ver como al instante, cientos de PDFs se reordenan y detecta duplicados.&lt;/p&gt;
+
+&lt;p&gt;¿Tienes iPhone o iPad? Tu biblioteca se va contigo, puedes seguir trabajando con tus PDFs allí donde vayas, aunque en pantalla más pequeña.&lt;/p&gt;
+
+&lt;p&gt;Si aún así os puede parecer cara, podéis aprovechar vuestro status de estudiante y recibir un descuento que la deja al suculento precio de 34€, si os vais a dedicar a investigar es poco dinero comparado con el tiempo que os podéis ahorrar. Sin duda alguna es mi segundo gestor bibliográfico a la espera de dar el salto a un disco duro más grande, porque la biblioteca de Papers puede volverse incontrolable.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusin&quot;&gt;Conclusión&lt;/h1&gt;
+
+&lt;p&gt;Mi conclusión como siempre es que tratéis de tener un equilibrio entre lo que necesitáis y lo que os ofrece el software. Estos programas son fáciles de usar y muchos permiten portar la información de uno a otro con un par de clics.&lt;/p&gt;
+
+&lt;p&gt;Así os recomendaría empezar tal vez por Zotero. Si necesitáis o usáis mucho las anotaciones o queréis tener un mayor control sobre la citación de fuentes bibliográficas o mover vuestros PDFs entre ordenadores ya podéis dar el salto a Mendeley. En última instancia si tenéis problemas de dinero, Papers es un toque de atención a cualquier cartera, pero si no lo tenéis os diría que lo comprarais ya, es el más fácil de usar y potente de los tres, y vuestros trabajos académicos lo agradecerán.&lt;/p&gt;
+
+&lt;p&gt;Manteneros expectantes ante la serie de entradas de “Así lo hago yo…”, hablaré de editores de texto, LaTeX, Markdown, citaciones y trabajo con estadística.&lt;/p&gt;
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Liberando los libros de Amazon</title>
+    <link href="http://localhost:4000/blog/dedrm-y-calibre/"/>
+    <updated>2015-09-27T13:30:00+02:00</updated>
+    <id>http://localhost:4000/blog/dedrm-y-calibre</id>
+    <author>
+      <name>José Godoy</name>
+      <uri>http://localhost:4000/</uri>
+      <email>jmartgod@enoughmind.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;No era especialmente un fan de los profesores de “compra mi libro para mi asignatura” por pensar en ello como una maniobra de monetizar, de manera externa, la materia que impartían en la universidad. Todo ello cambió al ver que también podía hacer más fácil la vida a sus los alumnos.&lt;/p&gt;
+
+&lt;p&gt;Pero todo tienen un pero, y este es que si eliges una plataforma cerrada para dar salida a tus escritos puedes estar haciéndole la vida imposible a tus alumnos. Al editar tu libro en Amazon estás haciendo que no sea imprimible, ni tampoco portable a otras plataformas que no sea el Kindle, el cual os recomiendo que os compréis si estáis pensando en un e-book.&lt;/p&gt;
+
+&lt;p&gt;Así pues, si estáis fuera del ecosistema de Amazon, pero queréis acceder a su tienda y tener tus libros en PDF para poder imprimir, subrayar o tenerlos en ePub para usarlos en otros ebooks existe una solución. &lt;em&gt;Calibre&lt;/em&gt; es tu amigo.&lt;/p&gt;
+
+&lt;p&gt;Esta aplicación junto con uno de sus plugins, &lt;em&gt;deDRM&lt;/em&gt;, te permiten quitar el DRM, que es un sistema de protección para evitar la copia de material con copyright y después convertirlo al formato que más te convenga.&lt;/p&gt;
+
+&lt;h2 id=&quot;instalando-calibre-y-dedrm&quot;&gt;Instalando Calibre y deDRM&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Antes de nada, para instalar &lt;em&gt;Calibre&lt;/em&gt; puedes pasar por este &lt;a href=&quot;http://calibre-ebook.com/download&quot;&gt;link&lt;/a&gt; y descargar la versión de tu sistema operativo, Mac, Windows o Linux.&lt;/li&gt;
+  &lt;li&gt;Para descargar el plugin &lt;em&gt;deDRM para Calibre&lt;/em&gt; sigue este &lt;a href=&quot;https://github.com/apprenticeharper/DeDRM_tools/releases/tag/v6.3.4&quot;&gt;link&lt;/a&gt; y descarga el archivo &lt;strong&gt;DeDRM_tools_6.3.4.zip&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Descomprime el archivo descargado y ahora abre Calibre.&lt;/li&gt;
+  &lt;li&gt;Entra en el menú de Opciones o Preferencias, después pulsa en “Cambiar el comportamiento de calibre” o “Change calibre behavior”&lt;/li&gt;
+  &lt;li&gt;Pulsa en Plugins, bajo el menú de “Avanzado”, tiene la forma de una pieza de puzzle.&lt;/li&gt;
+  &lt;li&gt;Haz clic en el botón de “Cargar Plugin desde archivo”.&lt;/li&gt;
+  &lt;li&gt;Busca la carpeta donde has descomprimido el archivo, encontrarás una carpeta llamada “DeDRM_calibre_plugin”.&lt;/li&gt;
+  &lt;li&gt;Dentro selecciona el archivo “DeDRM_calibre_plugin.zip”, pulsa en Add o Open o Abrir, dependiendo del idioma y sistema operativo.&lt;/li&gt;
+  &lt;li&gt;Aparecerá una ventana, no entres en pánico, Acepta, dale a “Sí” y seguidamente aparecerá una ventana indicando que el plugin ha sido instalado, pulsa en Aceptar.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Ahora puedes importar tus libros de Kindle que automáticamente serán desprotegidos y podrás convertirlos pulsando sobre ellos con el clic derecho y seleccionando “convertir libro”.&lt;/p&gt;
+
+&lt;h2 id=&quot;pero-donde-encuentro-los-archivos-de-los-libros&quot;&gt;¿Pero donde encuentro los archivos de los libros?&lt;/h2&gt;
+
+&lt;p&gt;Esta pregunta es común, y puede que la información que te de no sea la de tu caso pues parece que dependiendo de la versión instalada (si es más reciente o tiene ya algo de tiempo) estas carpetas pueden cambiar.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mac ⇢ Documentos / My Kindle Content&lt;/li&gt;
+  &lt;li&gt;Windows 7, XP, Vista ⇢ C: / Usuario / Tu usuario / Documents / My Kindle Content&lt;/li&gt;
+  &lt;li&gt;Windows 8 y 10 ⇢ C: / Usuario / Tu usuario / AppData / Local / Amazon / Kindle / application / content&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ltimos-apuntes-acerca-del-drm&quot;&gt;Últimos apuntes acerca del DRM&lt;/h2&gt;
+
+&lt;p&gt;Retirar el DRM solo es legal en caso de que sea para uso propio y tengas una copia del original, dicho de otra manera, el único caso válido es que quieras llevarte tus libros a otros dispositivos. Dicho esto y con el aviso de rigor espero que esta entrada haya servido de algo y si consideras que es necesaria cualquier corrección o tienes alguna duda &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#109;&amp;#097;&amp;#114;&amp;#116;&amp;#103;&amp;#111;&amp;#100;&amp;#064;&amp;#101;&amp;#110;&amp;#111;&amp;#117;&amp;#103;&amp;#104;&amp;#109;&amp;#105;&amp;#110;&amp;#100;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;contacta&lt;/a&gt; conmigo.&lt;/p&gt;
+
+
+    </content>
+  </entry>
+  
+  <entry>
+    <title>Herramientas para el Trabajo Fin de Grado</title>
+    <link href="http://localhost:4000/blog/herramientas-tfg/"/>
+    <updated>2015-09-23T00:00:00+02:00</updated>
+    <id>http://localhost:4000/blog/herramientas-tfg</id>
+    <author>
+      <name>José Godoy</name>
+      <uri>http://localhost:4000/</uri>
+      <email>jmartgod@enoughmind.com</email>
+    </author>
+    <content type="html">
+      
+      &lt;p&gt;Después de enfrentarme al trance que supone la creación del Trabajo de Fin de Grado, (TFG), me gustaría compartir con vosotros algunos de los recursos creados o que llevo utilizando a lo largo de toda mi carrera. Voy tratar de ser sencillo para que esto sirva como introducción.&lt;/p&gt;
+
+&lt;h2 id=&quot;formato&quot;&gt;Formato&lt;/h2&gt;
+
+&lt;p&gt;Las directrices específicas pueden ser encontradas en este &lt;a href=&quot;http://umh1891.edu.umh.es/wp-content/uploads/sites/348/2013/02/Directrices-TFG-Facultad-Psicolog%C3%ADa-MODIF.pdf&quot;&gt;enlace&lt;/a&gt;. Al final del documento se hace alusión al formato que ha de tener este trabajo. Para ser más específico me referiré a este pequeño párrafo.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Formato del documento: Los trabajos se elaborarán en formato Word, tamaño A4, con márgenes de 2,5 cm, con el texto en letra Arial 11, interlineado de 1,5 y texto justificado.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Las reglas de publicación de APA para manuscritos, definen exactamente los mismos márgenes, sin embargo, la letra utilizada es Times o Times New Roman, de tamaño 12, con interlineado de doble espacio y texto sin justificar. Esto realmente no importa, pero si por alguna razón alguna vez tenéis que hacer un trabajo con reglas de publicación APA, dejo aquí unas traducciones que he realizado de unas plantillas preparadas para Word en sus versiones &lt;a href=&quot;../../downloads/APA_6th_template.doc&quot; title=&quot;Plantilla 97/2003&quot;&gt;97/2003&lt;/a&gt; y &lt;a href=&quot;../../downloads/APA_6th_template.docx&quot; title=&quot;Plantilla 2003-2016&quot;&gt;2003 en adelante&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Para este caso, he dejado &lt;a href=&quot;../../downloads/Plantilla_TFG.doc&quot; title=&quot;Plantilla UMH&quot;&gt;una plantilla&lt;/a&gt; de APA 6.0, con las especificaciones que la Universidad Miguel Hernández tenía en 2014-2015, y que supongo que se mantendrán durante un tiempo.&lt;/p&gt;
+
+&lt;p&gt;El documento es bastante explicito, de todas maneras si tuvierais alguna duda podéis mandarme un &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#106;&amp;#109;&amp;#097;&amp;#114;&amp;#116;&amp;#103;&amp;#111;&amp;#100;&amp;#064;&amp;#101;&amp;#110;&amp;#111;&amp;#117;&amp;#103;&amp;#104;&amp;#109;&amp;#105;&amp;#110;&amp;#100;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;mail&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;bibliografa&quot;&gt;Bibliografía&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;El diablo está en los detalles.&lt;/em&gt; En los TFG también hay detalles ineludibles. La bibliografía es uno de ellos. Aunque APA suele ser bastante claro y sencillo de usar, una vez te acostumbras, el creciente número de bibliografía acumulada para un TFG puede hacer difícil recordar exactamente donde recuperaste o conseguiste tal artículo o ¿Cuál era el apellido del tercer autor de ese libro tan bueno que…?&lt;/p&gt;
+
+&lt;p&gt;No hay que sufrir, llegan al rescate los gestores de bibliografía. Actualmente el mundo académico está plagado de estos programas que se convierten en bibliotecas móviles donde puedes tener almacenados todos los metadatos de tus artículos favoritos. Si bien, para no extenderme más solo os dejaré con los enlaces de descarga de unos cuantos gratuitos (que también los hay de pago, claro) y más adelante haré un análisis de cada uno de ellos.&lt;/p&gt;
+
+&lt;p&gt;Por ahora y asumiendo que todos o tenéis Windows o Mac, os recomiendo &lt;a href=&quot;https://www.zotero.org&quot;&gt;Zotero&lt;/a&gt; o &lt;a href=&quot;https://www.mendeley.com&quot;&gt;Mendeley&lt;/a&gt;. Si tenéis problemas, podéis mandarme un mail y trataré de ayudaros en la medida de lo posible, pero son dos programas muy sencillos de configurar y llenos de posibilidades.&lt;/p&gt;
+
+&lt;p&gt;No desfallezcáis, si habéis llegado hasta aquí, este es ya el menor de vuestros problemas para ser graduados. ¡Ánimo!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Actualización&lt;/em&gt;: Hace unos días se ha abierto un curso para la elaboración de textos académicos. Termina en Noviembre, está apadrinado por la Universidad, Rey Juan Carlos y es muy completo. Solo debéis registraros en la plataforma y comenzar con él. &lt;a href=&quot;https://miriadax.net/web/elaborar-texto-academico-humanidades-cienciassociales-2ed&quot;&gt;Aquí más información.&lt;/a&gt;&lt;/p&gt;
+
+
+    </content>
+  </entry>
   
   <entry>
     <title>Galaxy Nexus VS iPhone 4S</title>
@@ -34,7 +193,7 @@
 
 &lt;p&gt;Es la primera pregunta que puede hacerse el lector de este escrito. Es una pregunta comprensible y la respuesta es sencilla y poco científica, “quería compartir mi experiencia”. No es difícil encontrar por la red innumerables cara a cara que datan de 2011, que es cuando deberían de haberse analizado estos terminales. Si bien, tuve el Galaxy Nexus entre febrero de 2011 y febrero de 2014 y después fue cuando me decidí por el iPhone 4S.&lt;/p&gt;
 
-&lt;p&gt;Aunque estas palabras estén siendo escritas el 22 de Abril, este post llevaba rondando mi cabeza desde hace mucho. Se podría pensar que el análisis que voy a realizar no trata de ser uno de esos análisis que hablan de marcas de Geekbench, análisis calidad y ángulos, u horas de pantalla. Son percepciones propias, y tal vez lo más interesante, como lo he vivido yo… &lt;strong&gt;como las diferentes plataformas han cambiado mi manera de trabajar&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Aunque estas palabras estén siendo escritas el 22 de Abril, este post llevaba rondando mi cabeza desde hace mucho. Se podría pensar que el análisis que voy a realizar no trata de ser uno de esos análisis que hablan de marcas de Geekbench, donde se tratan temas como la calidad, ángulos u horas de pantalla. Todo lo contrario, son percepciones propias, y tal vez lo más interesante, como lo he vivido yo, &lt;strong&gt;como las diferentes plataformas han cambiado mi manera de trabajar&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;en-el-papel&quot;&gt;En el papel&lt;/h2&gt;
 

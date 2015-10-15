@@ -5434,6 +5434,16 @@ input[type="submit"]:active, .btn-inverse:active, .btn-social:active, .btn-info:
   animation: fadeIn 1s ease-in 1.25s normal both;
   /* advertisements */
 }
+#main .inner-wrap {
+  margin-left: 8.5298%;
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 65.88078%;
+}
+#main .inner-wrap:last-child {
+  margin-right: 0;
+}
 @media screen and (min-width: 56.25em) {
   #main .inner-wrap {
     float: left;
@@ -5446,9 +5456,11 @@ input[type="submit"]:active, .btn-inverse:active, .btn-social:active, .btn-info:
   }
 }
 #main .page-title {
+  text-align: center;
   width: 100%;
 }
 .page-content {
+  text-align: justify;
   width: 100%;
 }
 .page-content > p:first-child {

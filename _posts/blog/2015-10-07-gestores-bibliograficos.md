@@ -13,7 +13,11 @@ share: true
 
 Así pues, vengo a poner ente vuestros ojos tres opciones, dentro de las miles, que he probado a lo largo de mi carrera y que me he permitido revisitar recientemente para ver que tal han evolucionado.
 
-# Zotero, 0€, Windows/Linux/MacOSX <img src=“../../images/zotero.png" height="120" width="120" style="position: center;">
+# Zotero, 0€, Windows/Linux/MacOSX
+
+<img src="../../images/zotero.png" height="120" width="120" style="display: block;
+    margin-left: auto;
+    margin-right: auto">
 
 Zotero, para mí, es el más sencillo y el primero que pude probar. Está basado en dos programas que funcionan. Uno, el gestor bibliográfico como tal, que se instala en tu sistema operativo de elección. Y otro que es el plugin de Firefox, que sirve para capturar el contenido de la web e incluirlo directamente en tu base de datos bibliográfica. Muy útil para añadir vídeos de Youtube, papers en formato HTML o cuando se navega por ScienceDirect o JSTOR, añadir cualquier artículo enlazado con un solo clic.
 
@@ -21,7 +25,11 @@ Tiene unas capacidades de sincronización un poco reducidas, pues está limitado
 
 Hace poco a añadido la capacidad de citar desde cualquier editor de texto, aunque su fuerte sigue siendo Word y aún no está soportada la versión 2016. 
 
-# Mendeley, 0€, Windows/Linux/MacOSX <img src=“../../images/mendeley.jpg" height="120" width="120" style="position: center;">
+# Mendeley, 0€, Windows/Linux/MacOSX 
+
+<img src="../../images/mendeley.jpg" height="120" width="120" style="display: block;
+    margin-left: auto;
+    margin-right: auto">
 
 Mendeley pretende añadir algo más a la mezcla. Es un salto cualitativo desde Zotero en cuanto a la posibilidad de anotar y subrayar PDFs, para después compartirlo con tus compañeros de investigación o institución. Sin embargo, queda por detrás en la sencillez que tiene Zotero para añadir contenido. 
 
@@ -31,7 +39,11 @@ Otro de sus fuertes es que si es necesario, no necesitas instalarte ningún prog
 
 Esta es la opción que estoy usando actualmente, ¿la razón?, es bien sencilla. La sincronización automática con Bibtex, un formato que permite insertar citaciones en documentos con LaTeX, aunque esa es otra historia, que debe ser contada en otro momento.
 
-# Papers, 59€/34€, Windows, MacOSX <img src=“../../images/papers.png" height="120" width="120" style="position: center;">
+# Papers, 59€/34€, Windows, MacOSX 
+
+<img src="../../images/papers.png" height="120" width="120" style="display: block;
+    margin-left: auto;
+    margin-right: auto">
 
 Aunque es la única opción de pago vale cada euro que se pueda poner en ella. Para empezar a diferencia de las anteriores, Papers 3 ya incluye la búsqueda, descarga e indizado en base de datos desde dentro de la aplicación. Si configuras el proxi de acceso a través de la universidad o si la usas desde dentro de tu institución es un verdadero placer.
 
