@@ -167,7 +167,7 @@
 #main {
 	@include animation(fadeIn 1.0s ease-in 1.25s normal both);
 	.inner-wrap {
-		@include shift(2);
+		@include shift(1);
 		@include span-columns(8);
 		@include media($medium) {
 			@include span-columns(9);
