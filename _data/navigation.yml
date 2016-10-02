@@ -1,16 +1,7 @@
-# Site navigation links
+# main links links
+main:
+  - title: "Sample Navigation Link"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
 
-- title: Proyectos
-  url: /projects/
-  excerpt: "Lo que está por venir."
-  image:
-
-- title: CV
-  url: /cv/
-  excerpt: "¿Qué hago profesionalmente?"
-  image:
-
-- title: Reading List
-  url: /reading/
-  excerpt: "¿Qué leo cuando no trabajo?"
-  image:
+  - title: "Sample Navigation Link 2"
+    url: /
