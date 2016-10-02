@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: single
 title: "Herramientas para el Trabajo Fin de Grado"
 categories: blog
 tags: [universidad, TFG]

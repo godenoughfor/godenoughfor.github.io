@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: single
 title: "Liberando los libros de Amazon"
 categories: blog
 date: 2015-09-27 13:30

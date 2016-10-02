@@ -1,5 +1,5 @@
 ---
-layout: 
+layout: single
 title: "Apología del Cambio"
 modified:
 categories: blog
