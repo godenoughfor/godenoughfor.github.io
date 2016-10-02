@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "es_ES"
-title                    : "Site Title"
-title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title                    : "Write/Live or Die"
+title_separator          : "|"
+name                     : "Godenoughfor"
+description              : "Aquí se escriben cosas..."
+url                      : "http://localhost:4000" # "https://godenoughfor.github.io "
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "godenoughfor/godenoughfor.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "José Godoy"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "No quiero impresionarte, pero tengo un blog."
+  location         : "Elche/Almería"
   email            :
   uri              :
   bitbucket        :
@@ -227,3 +227,15 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+defaults:
+# _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
