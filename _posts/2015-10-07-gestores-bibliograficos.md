@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: 
 title: "Gestores bibliográficos: Papers vs Mendeley vs Zotero"
 categories: blog
 date: 2015-10-07

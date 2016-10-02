@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: 
 title: "Galaxy Nexus VS iPhone 4S"
 categories: blog
 tags: [tecnología, reliquias, ]

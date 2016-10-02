@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: 
 title: "Automatización, día 1: Blog en movilidad."
 categories: blog
 date: 2015-04-17 14:56
