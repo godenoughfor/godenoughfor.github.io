@@ -32,4 +32,4 @@ Es muy posible, que las personas que llegan a amar su trabajo, amaran aquello qu
 
 Me gusta escribir, la investigación, la psicología y los retos. Empecé a escribir en una máquina de escribir y cambié mis herramientas con el paso del tiempo, sin embargo, al final del día siempre termino haciendo lo que amo o al menos eso es lo que trato, dedicar tiempo a lo que amo. A veces es escribir, a veces mi carrera, a veces mi pareja.
 
-No esperen el qué, preparense para ser quién. Estudia algo que te guste, lee acerca de lo que ames y enfrentate al reto de crear algo, lo consigas o no, (ojo, si lo consigues mejor). Buena suerte en ello y hasta la próxima entrada.
+No esperen el qué, preparense para ser quién. Estudia algo que te guste, lee acerca de lo que ames y enfrentate al reto de crear algo, lo consigas o no, (ojo, si lo consigues mejor). En el proceso del error, se aprenden muchas más cosas que en el del éxito. Una vida llena de éxitos sin errores, puede traer una gran tristeza.
