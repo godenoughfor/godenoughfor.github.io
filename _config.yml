@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "es_ES"
-title                    : "Write/Live or Die"
+title                    : "Psychology and Stuff"
 title_separator          : "|"
 name                     : "Godenoughfor"
-description              : "Aquí se escriben cosas..."
+description              : "Donde hay personas, hay psicología."
 url                      : "https://godenoughfor.github.io" #  "http://localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "godenoughfor/godenoughfor.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -81,7 +81,7 @@ author:
   avatar           : "bio-photo.jpg"
   bio              : "No quiero impresionarte, pero tengo un blog."
   location         : "Elche/Almería"
-  email            :
+  email            : "jmartgod@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
